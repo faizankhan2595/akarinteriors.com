@@ -634,7 +634,7 @@
 
 
             <!--  Start awards  -->
-            <section class="tc-awards-style2">
+            <section class="tc-awards-style2" style="display: none;">
                 <div class="container">
                     <h2 class="fsz-45 fw-500 text-center mb-30"> Featured <span class="sub-font fst-italic color-orange1 fw-400"> awards </span> </h2>
                     <div class="awards">
@@ -948,7 +948,7 @@
                                                 <textarea rows="8" class="form-control" placeholder="Write your message here"></textarea>
                                             </div>
                                         </div>
-                                        <div class="col-lg-12">
+                                        <!-- <div class="col-lg-12">
                                             <div class="upload_img_content">
                                                 <div class="file">
                                                     <div class="file__input" id="file__input">
@@ -958,7 +958,7 @@
                                                     <div class="file__value_content" id="file__value_content"></div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="col-lg-12">
                                             <div class="form-check terms-check">
                                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
