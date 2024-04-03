@@ -100,8 +100,8 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="nav-contact">
                         <div class="links-item">
-                            <a href="#"> 1st Floor, 2nd Cross, 2nd Main, <br/>
-                                BTM Layout, Bangalore - 560076 </a>
+                            <a href="#"> B/601, Minoo Minar, Veera Desai Road,  <br/>
+                            Andheri (West), Mumbai 400058 </a>
                         </div>
                         <div class="links-item">
                             <a href="#"> afreen@akarinteriors.com </a>
@@ -168,19 +168,19 @@
                 <div class="container-fluid">
                     <div class="head-slider">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
+                        <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="assets/img/slider1.jpg" alt="" class="main-img img-cover">
+                                        <img src="GALLERY/RAZINE HOUSE PHOTOS/Bed_Cum_Dining_V-3.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container">
                                             <div class="cont">
-                                                <div class="tags">
+                                                <!-- <div class="tags">
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
-                                                </div>
-                                                <h2 class="title"> <a href="#"> 3 Bedroom Private <br> Apartment </a> </h2>
+                                                </div> -->
+                                                <h2 class="title"> <a href="#"> RAZINE HOUSE PHOTOS <br> Bed Cum Dining </a>
                                             </div>
                                         </div>
                                     </div>
@@ -189,16 +189,16 @@
                             <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="assets/img/slider2.jpg" alt="" class="main-img img-cover">
+                                        <img src="GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Bedroom_01.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container">
                                             <div class="cont">
-                                                <div class="tags">
+                                                <!-- <div class="tags">
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
-                                                </div>
-                                                <h2 class="title"> <a href="#"> ABERY Apartment <br> Master Bedroom </a> </h2>
+                                                </div> -->
+                                                <h2 class="title"> <a href="#"> MALHAR 3DS <br> Residence Bedroom </a>
                                             </div>
                                         </div>
                                     </div>
@@ -207,16 +207,16 @@
                             <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="assets/img/slider3.jpg" alt="" class="main-img img-cover">
+                                        <img src="GALLERY/KAPADIA 3DS/Hall 1.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container">
                                             <div class="cont">
-                                                <div class="tags">
+                                                <!-- <div class="tags">
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
-                                                </div>
-                                                <h2 class="title"> <a href="#"> salon skin & spa </a> </h2>
+                                                </div> -->
+                                                <h2 class="title"> <a href="#"> KAPADIA  <br> Hall </a>
                                             </div>
                                         </div>
                                     </div>
@@ -238,19 +238,19 @@
                         <div class="col-lg-3">
                             <div class="feat-card">
                                 <span class="icon"> <i class="fal fa-betamax"></i> </span>
-                                <b class="fsz-18 fw-600"> 360 Panorama & 3D Virtual Reality Experience </b>
+                                <b class="fsz-18 fw-600"> Award Winning <br> Interior Design Company </b>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="feat-card">
                                 <span class="icon"> <i class="fal fa-leaf"></i> </span>
-                                <b class="fsz-18 fw-600"> Crafted Furniture <br> and Sustainable Material </b>
+                                <b class="fsz-18 fw-600"> Sustainable Design <br> Solutions </b>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="feat-card">
                                 <span class="icon"> <i class="fal fa-bezier-curve"></i> </span>
-                                <b class="fsz-18 fw-600"> Young, Enthusiastic and <br> Innovative Architects </b>
+                                <b class="fsz-18 fw-600"> Young, Enthusiastic and <br> Innovative Team </b>
                             </div>
                         </div>
                     </div>
@@ -385,7 +385,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    
+
                                     </div>
                                     <!-- <a href="#" class="butn bg-white rounded-pill mt-50 hover-bg-black">
                                         <span> Get A Free Quotes <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
@@ -401,7 +401,7 @@
                                     <div class="img" data-lag="0.4">
                                         <img src="assets/img/process/proc2.jpg" alt="" class="img-cover">
                                         <span class="txt sub-font"> Inspiring Spaces </span>
-                                    
+
                                     </div>
                                     <div class="img" data-lag="0.3">
                                         <img src="assets/img/process/proc3.jpg" alt="" class="img-cover">
@@ -435,7 +435,7 @@
                         </div>
                     </div>
                     <div class="tabs-links mt-40">
-                        <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                        <!-- <ul class="nav nav-pills" id="pills-tab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="pills-proj1-tab" data-bs-toggle="pill" data-bs-target="#pills-proj1" type="button">Interior Design</button>
                             </li>
@@ -448,7 +448,12 @@
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="pills-proj4-tab" data-bs-toggle="pill" data-bs-target="#pills-proj2" type="button">Furniture</button>
                             </li>
-                        </ul>
+                        </ul> -->
+
+                        <!-- Write a sub heading instead of tabs -->
+                        <div class="text color-666">
+                            <h3> Our projects are a reflection of our commitment to excellence and innovation. </h3>
+                        </div>
                     </div>
                 </div>
                 <div class="tab-content" id="pills-tabContent">
@@ -459,7 +464,7 @@
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <a href="#" class="img">
-                                                <img src="assets/img/projects/proj1.jpg" alt="" class="img-cover">
+                                                <img src="GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                                 <div class="year">
                                                     <span class="txt"> 2023 </span>
                                                     <img src="assets/img/project_shape.png" alt="" class="bg">
@@ -467,18 +472,14 @@
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </a>
                                             <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> ABERY Apartment Master Bedroom </a> </h3>
+                                                <h3 class="title"> <a href="#"> THE GATEWAY </a> </h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <a href="#" class="img">
-                                                <img src="assets/img/projects/proj2.jpg" alt="" class="img-cover">
+                                                <img src="GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg" alt="" class="img-cover">
                                                 <div class="year">
                                                     <span class="txt"> 2022 </span>
                                                     <img src="assets/img/project_shape.png" alt="" class="bg">
@@ -486,17 +487,14 @@
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </a>
                                             <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Neoclassical Sofa </a> </h3>
+                                                <h3 class="title"> <a href="#"> RAZINE HOUSE </a> </h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <a href="#" class="img">
-                                                <img src="assets/img/projects/proj3.jpg" alt="" class="img-cover">
+                                                <img src="GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg" alt="" class="img-cover">
                                                 <div class="year">
                                                     <span class="txt"> 2022 </span>
                                                     <img src="assets/img/project_shape.png" alt="" class="bg">
@@ -504,18 +502,14 @@
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </a>
                                             <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Salone Skin & Spa </a> </h3>
+                                                <h3 class="title"> <a href="#"> MALHAR </a> </h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <a href="#" class="img">
-                                                <img src="assets/img/projects/proj4.jpg" alt="" class="img-cover">
+                                                <img src="GALLERY/KAPADIA 3DS/Hall2.jpg" alt="" class="img-cover">
                                                 <div class="year">
                                                     <span class="txt"> 2022 </span>
                                                     <img src="assets/img/project_shape.png" alt="" class="bg">
@@ -523,11 +517,7 @@
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </a>
                                             <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Boston D53 Deluxe Apartment </a> </h3>
+                                                <h3 class="title"> <a href="#"> KAPADIA </a> </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -540,7 +530,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="pills-proj2" role="tabpanel" aria-labelledby="pills-proj2-tab">
+                    <!-- <div class="tab-pane fade" id="pills-proj2" role="tabpanel" aria-labelledby="pills-proj2-tab">
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
@@ -627,7 +617,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </section>
             <!--  End projects  -->
@@ -814,7 +804,7 @@
 
 
             <!--  Start blog  -->
-            <section class="tc-blog-style2">
+            <!-- <section class="tc-blog-style2">
                 <div class="container">
                     <div class="row align-items-center mb-40">
                         <div class="col-lg-8">
@@ -895,7 +885,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!--  End blog  -->
 
 
@@ -998,7 +988,7 @@
                             <div class="links-group">
                                 <h5 class="sub-title fsz-24 fw-500 mb-30 mt-5 mt-lg-0"> Contact </h5>
                                 <ul>
-                                    <li> <a href="#"> 1st Floor, 2nd Cross, 2nd Main, BTM Layout, Bangalore - 560076 </a> </li>
+                                    <li> <a href="#"> B/601, Minoo Minar, Veera Desai Road, Andheri (West), Mumbai 400058 </a> </li>
                                     <li> <a href="#"> afreen@akarinteriors.com </a> </li>
                                     <li> <a href="#"> (+91) 80803 80031 </a> </li>
                                 </ul>
