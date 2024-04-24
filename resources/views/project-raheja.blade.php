@@ -85,12 +85,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
-                            <h2 class="fsz-45 fw-500"> Latest <span class="sub-font fst-italic color-orange1 fw-400"> projects </span> </h2>
-                        </div>
-                        <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="/projects" class="butn borderd border rounded-pill hover-bg-black">
-                                <span> See All Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
-                            </a>
+                            <h2 class="fsz-45 fw-500"> Project <span class="sub-font fst-italic color-orange1 fw-400"> Razine House </span> </h2>
                         </div>
                     </div>
                     <div class="tabs-links mt-40">
@@ -110,8 +105,12 @@
                         </ul> -->
 
                         <!-- Write a sub heading instead of tabs -->
-                        <div class="text color-666">
-                            <h3> Our projects are a reflection of our commitment to excellence and innovation. </h3>
+                        <div class="text color-666" style="line-height: 40px;">
+                            <h6> 
+                            Area: 3 BHK <br/><br/>
+                            Design Concept: Modern<br/><br/>
+                            Completed in 90 Days<br/><br/>
+                            </h6>
                         </div>
                     </div>
                 </div>
@@ -122,61 +121,29 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="/project/the-gateway" class="img">
+                                            <div class="img">
                                                 <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2023 </span>
-                                                    <img src="/assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> THE GATEWAY </a> </h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> RAZINE HOUSE </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> MALHAR </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="/GALLERY/KAPADIA 3DS/Hall2.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> KAPADIA </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>

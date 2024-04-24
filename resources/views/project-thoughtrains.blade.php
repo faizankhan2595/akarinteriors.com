@@ -14,33 +14,33 @@
     <title>Akar Interiors Turnkey Solutions</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="../common/assets/img/fav2.png" title="Favicon" sizes="16x16">
+    <link rel="shortcut icon" href="/common/assets/img/fav2.png" title="Favicon" sizes="16x16">
 
     <!-- bootstrap 5 -->
-    <link rel="stylesheet" href="../common/assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/bootstrap.min.css">
 
     <!-- font family -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
 
     <!-- fontawesome icons  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/all.min.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/all.min.css">
     <!-- themify icons  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/themify-icons.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/themify-icons.css">
     <!-- animate css  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/animate.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/animate.css">
     <!-- fancybox popup  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/jquery.fancybox.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/jquery.fancybox.css">
     <!-- lity popup  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/lity.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/lity.css">
     <!-- swiper slider  -->
-    <link rel="stylesheet" href="../common/assets/css/lib/swiper8.min.css">
+    <link rel="stylesheet" href="/common/assets/css/lib/swiper8.min.css">
 
     <!-- common style -->
-    <link rel="stylesheet" href="../common/assets/css/common_style.css">
+    <link rel="stylesheet" href="/common/assets/css/common_style.css">
 
     <!-- home style -->
-    <link rel="stylesheet" href="assets/css/home_2_style.css">
+    <link rel="stylesheet" href="/assets/css/home_2_style.css">
 
 
 </head>
@@ -85,12 +85,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
-                            <h2 class="fsz-45 fw-500"> Latest <span class="sub-font fst-italic color-orange1 fw-400"> projects </span> </h2>
-                        </div>
-                        <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="/projects" class="butn borderd border rounded-pill hover-bg-black">
-                                <span> See All Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
-                            </a>
+                            <h2 class="fsz-45 fw-500"> Project <span class="sub-font fst-italic color-orange1 fw-400"> Thoughtrains </span> </h2>
                         </div>
                     </div>
                     <div class="tabs-links mt-40">
@@ -110,8 +105,13 @@
                         </ul> -->
 
                         <!-- Write a sub heading instead of tabs -->
-                        <div class="text color-666">
-                            <h3> Our projects are a reflection of our commitment to excellence and innovation. </h3>
+                        <div class="text color-666" style="line-height: 40px;">
+                            <h6> 
+                                Head office of a leading advertising agency <br/><br/>
+                                Area: 10,000 Sq Ft <br/><br/>
+                                Design Concept: Modern, Contemporary yet Minimal <br/><br/>
+                                Project Designer: New Garage <br/><br/>
+                            </h6>
                         </div>
                     </div>
                 </div>
@@ -120,83 +120,34 @@
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
-                                @php
-    $projects = '[
-        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/swimwell"},
-        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/raheja"},
-        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/laxmi-jewels"},
-        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/thoughtrains"},
-        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/berggruen"},
-        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/gateway"},
-        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"2022","url":"/project/razine-house"},
-        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"2022","url":"/project/malhar"},
-        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"2022","url":"/project/kapadia"}
-    ]';
-    $projects = json_decode($projects, true);
-@endphp
-
-                                    @foreach($projects as $project)
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="{{$project['url']}}" class="img">
-                                                <img src="{{$project['image']}}" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> {{$project['year']}} </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> {{$project['name']}} </a> </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    @endforeach
-                                    <!-- <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> RAZINE HOUSE </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> MALHAR </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="GALLERY/KAPADIA 3DS/Hall2.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <h3 class="title"> <a href="#"> KAPADIA </a> </h3>
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
-                                    </div> -->
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="controls">
                                     <div class="container">
@@ -308,26 +259,26 @@
     </div>
 
     <!--  request  -->
-    <script src="../common/assets/js/lib/jquery-3.0.0.min.js"></script>
-    <script src="../common/assets/js/lib/jquery-migrate-3.0.0.min.js"></script>
-    <script src="../common/assets/js/lib/bootstrap.bundle.min.js"></script>
-    <script src="../common/assets/js/lib/wow.min.js"></script>
-    <script src="../common/assets/js/lib/jquery.fancybox.js"></script>
-    <script src="../common/assets/js/lib/lity.js"></script>
-    <script src="../common/assets/js/lib/swiper8-bundle.min.js"></script>
-    <script src="../common/assets/js/lib/jquery.waypoints.min.js"></script>
-    <script src="../common/assets/js/lib/jquery.counterup.js"></script>
-    <script src="../common/assets/js/lib/parallaxie.js"></script>
+    <script src="/common/assets/js/lib/jquery-3.0.0.min.js"></script>
+    <script src="/common/assets/js/lib/jquery-migrate-3.0.0.min.js"></script>
+    <script src="/common/assets/js/lib/bootstrap.bundle.min.js"></script>
+    <script src="/common/assets/js/lib/wow.min.js"></script>
+    <script src="/common/assets/js/lib/jquery.fancybox.js"></script>
+    <script src="/common/assets/js/lib/lity.js"></script>
+    <script src="/common/assets/js/lib/swiper8-bundle.min.js"></script>
+    <script src="/common/assets/js/lib/jquery.waypoints.min.js"></script>
+    <script src="/common/assets/js/lib/jquery.counterup.js"></script>
+    <script src="/common/assets/js/lib/parallaxie.js"></script>
     <!-- === Gsap === -->
-    <script src="../common/assets/js/gsap_lib/gsap.min.js"></script>
-    <script src="../common/assets/js/gsap_lib/ScrollSmoother.min.js"></script>
-    <script src="../common/assets/js/gsap_lib/ScrollTrigger.min.js"></script>
-    <script src="../common/assets/js/gsap_lib/SplitText.min.js"></script>
+    <script src="/common/assets/js/gsap_lib/gsap.min.js"></script>
+    <script src="/common/assets/js/gsap_lib/ScrollSmoother.min.js"></script>
+    <script src="/common/assets/js/gsap_lib/ScrollTrigger.min.js"></script>
+    <script src="/common/assets/js/gsap_lib/SplitText.min.js"></script>
     <!-- === common === -->
-    <script src="../common/assets/js/common_js.js"></script>
+    <script src="/common/assets/js/common_js.js"></script>
 
     <!-- ===== home scripts ===== -->
-    <script src="assets/js/home_2_scripts.js"></script>
+    <script src="/assets/js/home_2_scripts.js"></script>
 
 </body>
 

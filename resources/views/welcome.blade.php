@@ -413,22 +413,41 @@
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
+                                @php
+    $projects = '[
+        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/swimwell"},
+        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/raheja"},
+        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/laxmi-jewels"},
+        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/thoughtrains"},
+        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/berggruen"},
+        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/gateway"},
+        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"2022","url":"/project/razine-house"},
+        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"2022","url":"/project/malhar"},
+        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"2022","url":"/project/kapadia"}
+    ]';
+    $projects = json_decode($projects, true);
+@endphp
+
+                                    @foreach($projects as $project)
                                     <div class="swiper-slide">
                                         <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                            <a href="{{$project['url']}}" class="img">
+                                                <img src="{{$project['image']}}" alt="" class="img-cover">
                                                 <div class="year">
-                                                    <span class="txt"> 2023 </span>
+                                                    <span class="txt"> {{$project['year']}} </span>
                                                     <img src="assets/img/project_shape.png" alt="" class="bg">
                                                 </div>
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </a>
                                             <div class="info">
-                                                <h3 class="title"> <a href="#"> THE GATEWAY </a> </h3>
+                                                <h3 class="title"> <a href="#"> {{$project['name']}} </a> </h3>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    @endforeach
+
+
+                                    <!-- <div class="swiper-slide">
                                         <div class="project-card">
                                             <a href="#" class="img">
                                                 <img src="GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg" alt="" class="img-cover">
@@ -472,7 +491,7 @@
                                                 <h3 class="title"> <a href="#"> KAPADIA </a> </h3>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="controls">
                                     <div class="container">
