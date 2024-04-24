@@ -41,6 +41,8 @@
 
     <!-- home style -->
     <link rel="stylesheet" href="assets/css/home_2_style.css">
+
+
 </head>
 
 <body class="home-style2">
@@ -66,62 +68,12 @@
     </div>
 
     <!--  start side_menu  -->
-    <div class="side_menu4_overlay"></div>
-    <div class="side_menu4_overlay2"></div>
-    <div class="side_menu_style4">
-        <div class="content">
-            <div class="main_links">
-                <ul>
-                    <li> <a href="#" class="main_link"> home </a> </li>
-                    <li><a href="#" class="main_link"> studio </a></li>
-                    <li> <a href="#" class="main_link"> cases </a> </li>
-                    <li> <a href="#" class="main_link"> news </a> </li>
-                    <li> <a href="#" class="main_link"> contact </a> </li>
-                </ul>
-            </div>
-        </div>
-        <img src="assets/img/chat_pat2.png" alt="" class="side_shape">
-        <img src="assets/img/chat_pat2.png" alt="" class="side_shape2">
-        <span class="clss"> <i class="fal fa-times"></i> </span>
-    </div>
     <!--  End side_menu  -->
 
     <div class="smooth-scroll-content" id="scrollsmoother-container">
 
         <!--  Start navbar  -->
-        <nav class="navbar navbar-expand-lg navbar-light tc-navbar-style2">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">
-                    <img src="logo2.png" alt="">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <div class="nav-contact">
-                        <div class="links-item">
-                            <a href="#"> B/601, Minoo Minar, Veera Desai Road,  <br/>
-                            Andheri (West), Mumbai 400058 </a>
-                        </div>
-                        <div class="links-item">
-                            <a href="#"> afreen@akarinteriors.com </a>
-                            <a href="#"> (+91) 80803 80031 </a>
-                        </div>
-                    </div>
-                    <div class="nav-icons">
-                        <!-- <a href="#" class="icon"> <i class="fal fa-globe"></i> </a> -->
-                        <!-- <a href="#" class="icon search_btn"> <i class="fal fa-search"></i> </a> -->
-                        <!-- <div class="nav-search-box">
-                            <div class="form-group">
-                                <input type="text" placeholder="search word">
-                                <button> <i class="fal fa-search"></i> </button>
-                            </div>
-                        </div> -->
-                        <a href="#" class="icon side_menu_btn"> <i class="fal fa-grip-lines"></i> </a>
-                    </div>
-                </div>
-            </div>
-        </nav>
+        @include('layouts.header')
         <!--  End navbar  -->
 
 
@@ -272,7 +224,7 @@
                             <div class="services">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <a href="#" class="service-card wow fadeInUp slow" data-wow-delay="0.2s">
+                                        <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.2s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser1.jpg" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
@@ -284,7 +236,7 @@
                                         </a>
                                     </div>
                                     <div class="col-lg-4">
-                                        <a href="#" class="service-card wow fadeInUp slow" data-wow-delay="0.4s">
+                                        <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.4s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser2.jpg" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
@@ -296,7 +248,7 @@
                                         </a>
                                     </div>
                                     <div class="col-lg-4">
-                                        <a href="#" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
+                                        <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
@@ -313,7 +265,7 @@
                         <div class="col-lg-4 offset-lg-1">
                             <h2 class="fsz-45 sub-font fw-500 js-splittext-lines"> Our goal is to create spaces that are not only beautiful, but also <span class="color-orange1"> functional </span> and <span class="color-orange1"> comfortable. </span> </h2>
                             <div class="btns">
-                                <a href="#" class="butn borderd border rounded-pill mt-70 hover-bg-black me-2">
+                                <a href="/about-us" class="butn borderd border rounded-pill mt-70 hover-bg-black me-2">
                                     <span> About Us <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                                 </a>
                             </div>
@@ -323,7 +275,7 @@
                         <div class="row gx-0">
                             <div class="col-lg-7">
                                 <h5 class="fsz-24 lh-4 wow fadeInUp slow"> We provide best solution for your dream, still adapt your budget and match with requires about quality of project </h5>
-                                <a href="#" class="butn borderd border rounded-pill mt-70 hover-bg-black">
+                                <a href="/projects" class="butn borderd border rounded-pill mt-70 hover-bg-black">
                                     <span> See Our Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                                 </a>
                             </div>
@@ -429,7 +381,7 @@
                             <h2 class="fsz-45 fw-500"> Latest <span class="sub-font fst-italic color-orange1 fw-400"> projects </span> </h2>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="#" class="butn borderd border rounded-pill hover-bg-black">
+                            <a href="/projects" class="butn borderd border rounded-pill hover-bg-black">
                                 <span> See All Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                             </a>
                         </div>
@@ -975,76 +927,7 @@
         <!--End-Contents-->
 
         <!--  Start footer  -->
-        <footer class="tc-footer-style2">
-            <div class="container">
-                <div class="foot-main-content">
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <div class="foot-info">
-                                <h3 class="fsz-35 fw-500"> Redefining Luxury Workspaces to <span class="sub-font color-orange1 fst-italic"> Meet Functionality </span> </h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 offset-lg-1">
-                            <div class="links-group">
-                                <h5 class="sub-title fsz-24 fw-500 mb-30 mt-5 mt-lg-0"> Contact </h5>
-                                <ul>
-                                    <li> <a href="#"> B/601, Minoo Minar, Veera Desai Road, Andheri (West), Mumbai 400058 </a> </li>
-                                    <li> <a href="#"> afreen@akarinteriors.com </a> </li>
-                                    <li> <a href="#"> (+91) 80803 80031 </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-2">
-                            <div class="links-group">
-                                <h5 class="sub-title fsz-24 fw-500 mb-30 mt-5 mt-lg-0"> Company </h5>
-                                <ul>
-                                    <li> <a href="#"> Services </a> </li>
-                                    <li> <a href="#"> Works </a> </li>
-                                    <li> <a href="#"> Studio </a> </li>
-                                    <li> <a href="#"> News </a> </li>
-                                    <li> <a href="#"> Contact </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-2">
-                            <div class="links-group">
-                                <h5 class="sub-title fsz-24 fw-500 mb-30 mt-5 mt-lg-0"> Helps </h5>
-                                <ul>
-                                    <li> <a href="#"> Terms & Conditions </a> </li>
-                                    <li> <a href="#"> Partner Policy </a> </li>
-                                    <li> <a href="#"> FAQs </a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="foot">
-                    <div class="row align-items-center">
-                        <div class="col-lg-2">
-                            <a href="#" class="logo">
-                                <img src="logo2.png" alt="">
-                            </a>
-                        </div>
-                        <div class="col-lg-3">
-                            <p class="copy"> © 2024 Akar Interiors Turnkey Solutions. </p>
-                        </div>
-                        <div class="col-lg-5">
-                            <div class="social-links">
-                                <a href="#"> <i class="fab fa-facebook-f"></i> </a>
-                                <a href="#"> <i class="fab fa-instagram"></i> </a>
-                                <a href="#"> <i class="fab fa-linkedin-in"></i> </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-2">
-                            <a href="#" class="butn borderd border rounded-pill hover-bg-black" id="to_top">
-                                <span> Back to Top <i class="ms-2 fal fa-chevron-up"></i> </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <img src="assets/img/foot_shap.svg" alt="" class="shap">
-        </footer>
+        @include('layouts.footer')
         <!--  End footer  -->
 
     </div>

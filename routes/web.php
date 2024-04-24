@@ -16,3 +16,24 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/contact-us', function () {
+    return view('contact-us');
+});
+
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+
+Route::get('/projects', function () {
+    return view('projects');
+});
+
+// project single with slug
+Route::get('/project/{slug}', function () {
+    return view('project-single');
+});
+
+Route::get('/services', function () {
+    return view('services');
+});
