@@ -159,7 +159,7 @@
                             <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="GALLERY/KAPADIA 3DS/Hall 1.jpg" alt="" class="main-img img-cover">
+                                        <img src="GALLERY/KAPADIA 3DS/Hall1.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container">
