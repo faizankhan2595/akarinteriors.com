@@ -762,13 +762,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="logos">
+                    <!-- <div class="logos">
                         <a href="#"> <img src="assets/img/clients/cl1.svg" alt=""> </a>
                         <a href="#"> <img src="assets/img/clients/cl2.svg" alt=""> </a>
                         <a href="#"> <img src="assets/img/clients/cl3.svg" alt=""> </a>
                         <a href="#"> <img src="assets/img/clients/cl4.svg" alt=""> </a>
                         <a href="#"> <img src="assets/img/clients/cl5.svg" alt=""> </a>
-                    </div>
+                    </div> -->
                 </div>
             </section>
             <!--  End testimonials  -->
