@@ -7,7 +7,7 @@
                 <li> <a href="/" class="main_link"> home </a> </li>
                 <li><a href="/projects" class="main_link"> projects </a></li>
                 <li> <a href="/services" class="main_link"> services </a> </li>
-                <li> <a href="/about-us" class="main_link"> about-us </a> </li>
+                <li> <a href="/about-us" class="main_link"> about us </a> </li>
                 <li> <a href="/contact-us" class="main_link"> contact </a> </li>
             </ul>
         </div>

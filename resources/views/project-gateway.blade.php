@@ -122,7 +122,7 @@
                                 <div class="swiper-wrapper">
 
                                     
-                                 @php
+                                @php
                                     $images = [
                                         'C48A1013-Edit.jpg',
                                         'C48A1022-Edit.jpg',

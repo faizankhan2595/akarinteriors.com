@@ -125,6 +125,167 @@
                 <img src="assets/img/prc_bg.png" alt="" class="bg" data-speed="1.2">
             </section>
 
+            <section class="tc-projects-style2">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8">
+                            <h2 class="fsz-45 fw-500"> Our <span class="sub-font fst-italic color-orange1 fw-400"> Team </span> </h2>
+                        </div>
+                    </div>
+                    <div class="tabs-links mt-40">
+                        <!-- <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="pills-proj1-tab" data-bs-toggle="pill" data-bs-target="#pills-proj1" type="button">Interior Design</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="pills-proj2-tab" data-bs-toggle="pill" data-bs-target="#pills-proj2" type="button">Landscape</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="pills-proj3-tab" data-bs-toggle="pill" data-bs-target="#pills-proj1" type="button">Rennovation</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="pills-proj4-tab" data-bs-toggle="pill" data-bs-target="#pills-proj2" type="button">Furniture</button>
+                            </li>
+                        </ul> -->
+
+                        <!-- Write a sub heading instead of tabs -->
+                        <div class="text color-666" style="line-height: 40px;">
+                            <h6> 
+                                Our team of experts are dedicated to providing you with the best in class services. 
+                                We are committed to delivering exceptional results and ensuring that your project is completed on time and within budget. 
+                                Our team is made up of highly skilled professionals who are passionate about what they do and are always looking for ways to improve. 
+                                We take pride in our work and strive to exceed your expectations.
+                            </h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-proj1" role="tabpanel" aria-labelledby="pills-proj1-tab">
+                        <div class="projects-slider-content mt-100">
+                            <div class="projects-slider">
+                                <div class="swiper-wrapper">
+
+                                    
+                                @php
+                                    $images = [
+                                        'IMG_3420.jpg',
+                                        'IMG_3421.jpg',
+                                        'IMG_3422.jpg',
+                                        'IMG_3423.jpg',
+                                        'IMG_3424.jpg',
+                                    ];
+                                @endphp
+
+                                @foreach($images as $image)
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/team/{{$image}}" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+                                @endforeach
+
+                                </div>
+                                <div class="controls">
+                                    <div class="container">
+                                        <div class="swiper-pagination"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="tab-pane fade" id="pills-proj2" role="tabpanel" aria-labelledby="pills-proj2-tab">
+                        <div class="projects-slider-content mt-100">
+                            <div class="projects-slider">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <a href="#" class="img">
+                                                <img src="assets/img/projects/proj3.jpg" alt="" class="img-cover">
+                                                <div class="year">
+                                                    <span class="txt"> 2022 </span>
+                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
+                                                </div>
+                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
+                                            </a>
+                                            <div class="info">
+                                                <div class="tags">
+                                                    <a href="#"> Interior Design </a>
+                                                    <a href="#"> Furniture </a>
+                                                </div>
+                                                <h3 class="title"> <a href="#"> Salone Skin & Spa </a> </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <a href="#" class="img">
+                                                <img src="assets/img/projects/proj4.jpg" alt="" class="img-cover">
+                                                <div class="year">
+                                                    <span class="txt"> 2022 </span>
+                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
+                                                </div>
+                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
+                                            </a>
+                                            <div class="info">
+                                                <div class="tags">
+                                                    <a href="#"> Interior Design </a>
+                                                    <a href="#"> Furniture </a>
+                                                </div>
+                                                <h3 class="title"> <a href="#"> Boston D53 Deluxe Apartment </a> </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <a href="#" class="img">
+                                                <img src="assets/img/projects/proj1.jpg" alt="" class="img-cover">
+                                                <div class="year">
+                                                    <span class="txt"> 2023 </span>
+                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
+                                                </div>
+                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
+                                            </a>
+                                            <div class="info">
+                                                <div class="tags">
+                                                    <a href="#"> Interior Design </a>
+                                                    <a href="#"> Furniture </a>
+                                                </div>
+                                                <h3 class="title"> <a href="#"> ABERY Apartment Master Bedroom </a> </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <a href="#" class="img">
+                                                <img src="assets/img/projects/proj2.jpg" alt="" class="img-cover">
+                                                <div class="year">
+                                                    <span class="txt"> 2022 </span>
+                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
+                                                </div>
+                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
+                                            </a>
+                                            <div class="info">
+                                                <div class="tags">
+                                                    <a href="#"> Furniture </a>
+                                                </div>
+                                                <h3 class="title"> <a href="#"> Neoclassical Sofa </a> </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="controls">
+                                    <div class="container">
+                                        <div class="swiper-pagination"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </section>
+
         </main>
         <!--End-Contents-->
 
