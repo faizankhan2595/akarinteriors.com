@@ -347,21 +347,21 @@
                             <div class="col-lg-7">
                                 <div class="imgs">
                                     <div class="img" data-lag="0.2">
-                                        <img src="assets/img/process/proc1.jpg" alt="" class="img-cover">
-                                        <span class="txt sub-font"> Luxury Design </span>
+                                        <img src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <!-- <span class="txt sub-font">  </span> -->
                                     </div>
                                     <div class="img" data-lag="0.4">
-                                        <img src="assets/img/process/proc2.jpg" alt="" class="img-cover">
-                                        <span class="txt sub-font"> Inspiring Spaces </span>
+                                        <img src="https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <!-- <span class="txt sub-font">  </span> -->
 
                                     </div>
                                     <div class="img" data-lag="0.3">
-                                        <img src="assets/img/process/proc3.jpg" alt="" class="img-cover">
-                                        <span class="txt sub-font"> Innovative Solutions </span>
+                                        <img src="https://images.unsplash.com/photo-1564564295391-7f24f26f568b?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <!-- <span class="txt sub-font">  </span> -->
                                     </div>
                                     <div class="img" data-lag="0.5">
-                                        <img src="assets/img/process/proc4.jpg" alt="" class="img-cover">
-                                        <span class="txt sub-font"> Sustainable Design </span>
+                                        <img src="https://images.unsplash.com/photo-1615109398623-88346a601842?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <!-- <span class="txt sub-font">  </span> -->
                                     </div>
                                 </div>
                             </div>
