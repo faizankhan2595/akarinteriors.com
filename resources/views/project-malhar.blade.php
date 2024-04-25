@@ -118,34 +118,49 @@
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
+
+
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Bedroom_01.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Bedroom_02.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Bedroom_02_Option_02.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_02.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
                                 </div>
                                 <div class="controls">
                                     <div class="container">

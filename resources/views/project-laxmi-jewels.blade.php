@@ -118,7 +118,7 @@
                 <div class="tab-content" id="pills-tabContent">
                     <div class="tab-pane fade show active" id="pills-proj1" role="tabpanel" aria-labelledby="pills-proj1-tab">
                         <div class="projects-slider-content mt-100">
-                            <div class="projects-slider">
+                            <!-- <div class="projects-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="project-card">
@@ -154,7 +154,7 @@
                                         <div class="swiper-pagination"></div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- <div class="tab-pane fade" id="pills-proj2" role="tabpanel" aria-labelledby="pills-proj2-tab">

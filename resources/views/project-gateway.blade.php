@@ -120,34 +120,112 @@
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
+
+
+-a----        04-04-2024  01:06 AM        1222514 C48A1013-Edit.jpg
+-a----        04-04-2024  01:06 AM        1202811 C48A1022-Edit.jpg
+-a----        04-04-2024  01:07 AM        1204525 C48A1025-Edit.jpg
+-a----        04-04-2024  01:07 AM        1221183 C48A1036.jpg
+-a----        04-04-2024  01:07 AM        1221253 C48A1049.jpg
+-a----        04-04-2024  01:07 AM        1214033 C48A1053-Edit.jpg
+-a----        04-04-2024  01:08 AM        1210351 C48A1057.jpg
+-a----        04-04-2024  01:08 AM        1227832 C48A1061.jpg
+-a----        04-04-2024  01:08 AM        1194163 C48A1064-Edit.jpg
+-a----        04-04-2024  01:08 AM        1197486 C48A1068-HDR-Edit.jpg
+-a----        04-04-2024  01:09 AM        1216370 C48A1081-HDR-Edit.jpg
+-a----        04-04-2024  01:09 AM        1225019 C48A1087-Edit-Edit.jpg
+-a----        04-04-2024  01:09 AM        1217104 C48A1102.jpg
+-a----        04-04-2024  01:09 AM        1198581 C48A1106.jpg
+-a----        04-04-2024  01:10 AM        1210974 C48A1107-Edit.jpg
+-a----        04-04-2024  01:10 AM        1216912 C48A1114-Edit.jpg
+-a----        04-04-2024  01:10 AM        1189755 C48A1116.jpg
+-a----        04-04-2024  01:11 AM        1223925 C48A1120-HDR.jpg
+-a----        04-04-2024  01:11 AM        1191203 C48A1138.jpg
+-a----        04-04-2024  01:11 AM        1224682 C48A1148.jpg
+-a----        04-04-2024  01:11 AM        1174794 C48A1156-Edit.jpg
+-a----        04-04-2024  01:11 AM        1210507 C48A1184-Edit-Edit.jpg
+-a----        04-04-2024  01:12 AM        1227717 C48A1193.jpg
+-a----        04-04-2024  01:12 AM        1224464 C48A1197.jpg
+-a----        04-04-2024  01:12 AM        1205593 C48A1200.jpg
+-a----        04-04-2024  01:12 AM        1224547 C48A1203-HDR.jpg
+-a----        04-04-2024  01:13 AM        1199727 C48A1216-Edit.jpg
+-a----        04-04-2024  01:13 AM        1213512 C48A1241.jpg
+-a----        04-04-2024  01:13 AM        1213456 C48A1248-Edit.jpg
+-a----        04-04-2024  01:14 AM        1221919 C48A1252.jpg
+-a----        04-04-2024  01:14 AM        1219166 C48A1253.jpg
+-a----        04-04-2024  01:14 AM        1201053 C48A1257-Edit.jpg
+-a----        04-04-2024  01:14 AM        1220300 C48A1258.jpg
+-a----        04-04-2024  01:15 AM        1196469 C48A1263-Edit.jpg
+-a----        04-04-2024  01:15 AM        1227057 C48A1270.jpg
+-a----        04-04-2024  01:15 AM        1201785 C48A1273.jpg
+-a----        04-04-2024  01:15 AM        1217992 C48A1281.jpg
+-a----        04-04-2024  01:16 AM        1200675 C48A1288-HDR-Edit.jpg
+-a----        04-04-2024  01:16 AM        1218500 C48A1290-Edit.jpg
+-a----        04-04-2024  01:16 AM        1209688 C48A1297.jpg
+-a----        04-04-2024  01:16 AM        1196410 C48A1299.jpg
+-a----        04-04-2024  01:17 AM        1196475 C48A1302-Edit.jpg
+-a----        04-04-2024  01:17 AM        1228726 C48A1306-Edit.jpg
+-a----        04-04-2024  01:17 AM        1208818 C48A1310-Edit.jpg
+                                    
+                                 @php
+                                    $images = [
+                                        'C48A1013-Edit.jpg',
+                                        'C48A1022-Edit.jpg',
+                                        'C48A1025-Edit.jpg',
+                                        'C48A1036.jpg',
+                                        'C48A1049.jpg',
+                                        'C48A1053-Edit.jpg',
+                                        'C48A1057.jpg',
+                                        'C48A1061.jpg',
+                                        'C48A1064-Edit.jpg',
+                                        'C48A1068-HDR-Edit.jpg',
+                                        'C48A1081-HDR-Edit.jpg',
+                                        'C48A1087-Edit-Edit.jpg',
+                                        'C48A1102.jpg',
+                                        'C48A1106.jpg',
+                                        'C48A1107-Edit.jpg',
+                                        'C48A1114-Edit.jpg',
+                                        'C48A1116.jpg',
+                                        'C48A1120-HDR.jpg',
+                                        'C48A1138.jpg',
+                                        'C48A1148.jpg',
+                                        'C48A1156-Edit.jpg',
+                                        'C48A1184-Edit-Edit.jpg',
+                                        'C48A1193.jpg',
+                                        'C48A1197.jpg',
+                                        'C48A1200.jpg',
+                                        'C48A1203-HDR.jpg',
+                                        'C48A1216-Edit.jpg',
+                                        'C48A1241.jpg',
+                                        'C48A1248-Edit.jpg',
+                                        'C48A1252.jpg',
+                                        'C48A1253.jpg',
+                                        'C48A1257-Edit.jpg',
+                                        'C48A1258.jpg',
+                                        'C48A1263-Edit.jpg',
+                                        'C48A1270.jpg',
+                                        'C48A1273.jpg',
+                                        'C48A1281.jpg',
+                                        'C48A1288-HDR-Edit.jpg',
+                                        'C48A1290-Edit.jpg',
+                                        'C48A1297.jpg',
+                                        'C48A1299.jpg',
+                                        'C48A1302-Edit.jpg',
+                                        'C48A1306-Edit.jpg',
+                                        'C48A1310-Edit.jpg',
+                                    ];
+                                @endphp
+
+                                @foreach($images as $image)
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/THE GATEWAY PHOTOS/{{$image}}" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
-                                            </div>
-                                        </div>
-                                    </div>
+                                @endforeach
+
                                 </div>
                                 <div class="controls">
                                     <div class="container">

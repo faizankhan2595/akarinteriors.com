@@ -123,28 +123,49 @@
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/KAPADIA 3DS/Master2.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/KAPADIA 3DS/Hall2.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/KAPADIA 3DS/Son1.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/KAPADIA 3DS/Hall3.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/KAPADIA 3DS/Son2.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/KAPADIA 3DS/Kitchen1.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/KAPADIA 3DS/Master1.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>

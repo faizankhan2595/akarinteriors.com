@@ -119,34 +119,159 @@
                         <div class="projects-slider-content mt-100">
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
+                                    
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Akar Interiors_Bathroom03_V11.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Akar Interiors_Bedroom05_V-12.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Akar Interiors_Bedroom06_V17.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/bathroom 06_V16.jpg" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/BathroomV14_View.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Bathroom_V9_View.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Bed_Cum_Dining_V-3.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Entrance_Door_V1.jpg" alt="" class="img-cover">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Kitchen_V6.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div> 
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Laundry Room_V-18.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Moms Bedroom_V15.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/v02_cam.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/v07_cam.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/v08_cam.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/V10.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/V10A_cam.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/v4 dining area.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="project-card">
+                                            <div class="img">
+                                                <img src="/GALLERY/RAZINE HOUSE PHOTOS/V9A_Bathroom.jpg" alt="" class="img-cover">
+                                                </div>
+                                        </div>
+                                    </div>
+                                    
                                 </div>
                                 <div class="controls">
                                     <div class="container">
