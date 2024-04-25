@@ -78,8 +78,6 @@
         <main>
             <section class="tc-process-style2">
                 <div class="container">
-                    <h2 class="fsz-45 fw-500 mb-20 text-center"> About  <span class="sub-font fst-italic color-orange1 fw-400"> Us!  </span> </h2>
-                    <p class="color-orange1 text-center mb-30"> Redefining Luxury Workspaces to Meet Functionality </p>
                     <div class="content">
                         <div class="row">
                             <div class="col-12">
@@ -88,7 +86,11 @@
                                         <div class="accordion-item">
                                             <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionProcess">
                                                 <div class="accordion-body pt-4 pr-3">
-                                                    <div class="text">
+
+                                                <h2 class="fsz-45 fw-500 mb-20 text-center"> About  <span class="sub-font fst-italic color-orange1 fw-400"> Us!  </span> </h2>
+                    <p class="color-orange1 text-center mb-30"> Redefining Luxury Workspaces to Meet Functionality </p>
+
+                                                    <div class="text" style="text-align:center;">
                                                     We specialise in creating inspiring spaces that adds a sense of luxury and refinement, elevating everyday living to extraordinary experiences. All our projects and work are accomplished with our drive for uniformity, simplicity, discipline, and punctuality. Experience the benefits of partnering with Akar Interiors today.
                                                     <br/>
                                                     <br/>
@@ -109,6 +111,32 @@
                                                     <br/>
                                                     To foster lasting relationships through a blend of traditional values and innovative ideas, prioritising collaboration and customer satisfaction.
                                                     </div>
+
+                                                    <h2 class="fsz-45 fw-500 mt-50 mb-20 text-center"> Meet The  <span class="sub-font fst-italic color-orange1 fw-400"> Founders!  </span> </h2>
+
+                                                    <div style="display:flex;align-items:center;justify-content:center;margin: 20px;">
+                                                        <img src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
+                                                    </div>
+                                                      
+                                                    <h2 class="fsz-25 fw-500 mb-20 text-center"> Khan Abdullah Aftab </h2>
+
+                                                    <div style="text-align:center;">
+                                                        Introducing Khan Abdullah Aftab, one of the two visionary leaders behind Akar Interiors. 
+                                                        His rich experience, spanning over two decades, has been in the realm of procurement and interior construction. Abdullah’s career is motivated with his fierce passion and precision and an unwavering commitment to excellence.
+                                                    </div>
+
+                                                    <div style="display:flex;align-items:center;justify-content:center;margin: 20px;">
+                                                        <img src="https://images.unsplash.com/photo-1564564295391-7f24f26f568b?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
+                                                    </div>
+                                                     
+                                                    <h2 class="fsz-25 fw-500 mb-20 text-center"> Afreen Khan </h2>
+
+                                                    <div style="text-align:center;">
+                                                    Introducing Afreen Khan, the other driving force behind Akar Interiors. Her expertise lies in building and maintaining relationships through seamless interactions and her focus on high quality deliverables. She compliments Abdullah’s commitment to excellence.
+                                                    </div>
+                                                     
+
+
                                                 </div>
                                             </div>
                                         </div>
