@@ -122,15 +122,15 @@
                                 <div class="swiper-wrapper">
                                 @php
                                     $projects = '[
-                                        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/swimwell"},
-                                        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/raheja"},
-                                        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/laxmi-jewels"},
-                                        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/thoughtrains"},
-                                        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/berggruen"},
-                                        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/gateway"},
-                                        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"2022","url":"/project/razine-house"},
-                                        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"2022","url":"/project/malhar"},
-                                        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"2022","url":"/project/kapadia"}
+                                        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/swimwell"},
+                                        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/raheja"},
+                                        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/laxmi-jewels"},
+                                        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/thoughtrains"},
+                                        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/berggruen"},
+                                        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/gateway"},
+                                        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"Completed","url":"/project/razine-house"},
+                                        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"Completed","url":"/project/malhar"},
+                                        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"Completed","url":"/project/kapadia"}
                                     ]';
                                     $projects = json_decode($projects, true);
                                 @endphp

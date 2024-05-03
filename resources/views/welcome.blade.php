@@ -195,7 +195,8 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="feat-card">
-                                <span class="icon"> <i class="fal fa-leaf"></i> </span>
+                                <!-- icon related to time -->
+                                <span class="icon"> <i class="fal fa-clock"></i> </span>
                                 <b class="fsz-18 fw-600"> Timely <br> Delivery </b>
                             </div>
                         </div>
