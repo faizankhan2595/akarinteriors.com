@@ -20,21 +20,24 @@
 <nav class="navbar navbar-expand-lg navbar-light tc-navbar-style2">
     <div class="container-fluid">
         <a class="navbar-brand" href="/">
-            <img src="/logo2.png" alt="">
+            <!-- <img src="/logo2.png" alt=""> -->
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="nav-contact">
-                <div class="links-item">
+                <a class="navbar-brand" href="/">
+                    <img src="/logo2.png" alt="">
+                </a>
+                <!-- <div class="links-item">
                     <a href="#"> B/601, Minoo Minar, Veera Desai Road,  <br/>
                     Andheri (West), Mumbai 400058 </a>
                 </div>
                 <div class="links-item">
                     <a href="#"> afreen@akarinteriors.com </a>
                     <a href="#"> (+91) 80803 80031 </a>
-                </div>
+                </div> -->
             </div>
             <div class="nav-icons">
                 <!-- <a href="#" class="icon"> <i class="fal fa-globe"></i> </a> -->

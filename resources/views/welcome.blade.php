@@ -86,9 +86,9 @@
                             <div class="col-lg-8">
                                 <h1> Redefining Luxury Workspaces to  <span class="sub-font"> Meet Functionality </span> </h1>
                                 <div class="award-wrapper">
-                                    <p> Award Winning Interior Design Company </p>
+                                    <p> <a href="mailto:afreen@akarinteriors.com">afreen@akarinteriors.com </a> </p>
                                     <span class="line"></span>
-                                    <p> 2023 </p>
+                                    <p> <a href="tel:+918080380031"> (+91) 80803 80031 </a> </p>
                                 </div>
                             </div>
                             <div class="col-lg-4">
@@ -98,18 +98,18 @@
                                         <div class="numbers">
                                             <div class="row">
                                                 <div class="col-6">
-                                                    <h2 class="num sub-font"> <span class="counter">92</span>% </h2>
+                                                    <h2 class="num sub-font"> <span class="counter">100</span>% </h2>
                                                     <p> Clients Satisfied </p>
                                                 </div>
                                                 <div class="col-6">
-                                                    <h2 class="num sub-font"> <span class="counter">152</span> </h2>
+                                                    <h2 class="num sub-font"> <span class="counter">12</span>+ </h2>
                                                     <p> Projects Done </p>
                                                 </div>
                                             </div>
                                         </div>
                                         <img src="assets/img/subtract.png" alt="" class="line">
                                     </div>
-                                    <div class="text color-666 mt-80"> Our goal is to create spaces that are not only <br> beautiful, but also functional & comfortable </div>
+                                    <div class="text color-666 mt-80"> Our goal is to create spaces that are not only <br> beautiful, but also functional & comfortable. </div>
                                 </div>
                             </div>
                         </div>
@@ -132,7 +132,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> RAZINE HOUSE PHOTOS <br> Bed Cum Dining </a>
+                                                <h2 class="title"> <a href="#"> Razine House </a>
                                             </div>
                                         </div>
                                     </div>
@@ -150,7 +150,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> MALHAR 3DS <br> Residence Bedroom </a>
+                                                <h2 class="title"> <a href="#"> Malhar 3DS </a>
                                             </div>
                                         </div>
                                     </div>
@@ -168,7 +168,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> KAPADIA  <br> Hall </a>
+                                                <h2 class="title"> <a href="#"> Kapadia </a>
                                             </div>
                                         </div>
                                     </div>
@@ -190,13 +190,13 @@
                         <div class="col-lg-3">
                             <div class="feat-card">
                                 <span class="icon"> <i class="fal fa-betamax"></i> </span>
-                                <b class="fsz-18 fw-600"> Award Winning <br> Interior Design Company </b>
+                                <b class="fsz-18 fw-600"> Customised  <br> Solutions </b>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="feat-card">
                                 <span class="icon"> <i class="fal fa-leaf"></i> </span>
-                                <b class="fsz-18 fw-600"> Sustainable Design <br> Solutions </b>
+                                <b class="fsz-18 fw-600"> Timely <br> Delivery </b>
                             </div>
                         </div>
                         <div class="col-lg-3">
@@ -219,11 +219,11 @@
             <section class="tc-services-style2">
                 <div class="container">
                     <div class="row gx-0">
-                        <div class="col-lg-7">
+                        <div class="col-lg-12">
                             <h2 class="fsz-45 fw-500 mb-50"> Akar Interior's <span class="sub-font fst-italic color-orange1 fw-400"> services </span> </h2>
                             <div class="services">
                                 <div class="row">
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.2s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser1.jpg" alt="" class="img-cover">
@@ -235,7 +235,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.4s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser2.jpg" alt="" class="img-cover">
@@ -247,7 +247,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
                                                 <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
@@ -259,17 +259,29 @@
                                             </div>
                                         </a>
                                     </div>
+                                    <div class="col-lg-3">
+                                        <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
+                                            <div class="img">
+                                                <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
+                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
+                                            </div>
+                                            <div class="info pt-30">
+                                                <h4 class="fsz-24"> Design Services </h4>
+                                                <p class="color-666 mt-15"> Look and feel presentation | 3D | Working Drawing/Ready for Construction Drawings.</p>
+                                            </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 offset-lg-1">
+                        <!-- <div class="col-lg-4 offset-lg-1">
                             <h2 class="fsz-45 sub-font fw-500 js-splittext-lines"> Our goal is to create spaces that are not only beautiful, but also <span class="color-orange1"> functional </span> and <span class="color-orange1"> comfortable. </span> </h2>
                             <div class="btns">
                                 <a href="/about-us" class="butn borderd border rounded-pill mt-70 hover-bg-black me-2">
                                     <span> About Us <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="btm-info mt-50">
                         <div class="row gx-0">
@@ -415,15 +427,15 @@
                                 <div class="swiper-wrapper">
                                 @php
     $projects = '[
-        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/swimwell"},
-        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/raheja"},
-        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/laxmi-jewels"},
-        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/thoughtrains"},
-        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"ongoing","url":"/project/berggruen"},
-        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"2023","url":"/project/gateway"},
-        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"2022","url":"/project/razine-house"},
-        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"2022","url":"/project/malhar"},
-        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"2022","url":"/project/kapadia"}
+        {"name":"SWIMWELL ","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/swimwell"},
+        {"name":"RAHEJA INTERFACE","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/raheja"},
+        {"name":"LAXMI JEWELS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/laxmi-jewels"},
+        {"name":"THOUGHTRAINS","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/thoughtrains"},
+        {"name":"BERGGRUEN","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Ongoing","url":"/project/berggruen"},
+        {"name":"THE GATEWAY","image":"/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg","year":"Completed","url":"/project/gateway"},
+        {"name":"RAZINE HOUSE","image":"/GALLERY/RAZINE HOUSE PHOTOS/Study Room_V13_View.jpg","year":"Completed","url":"/project/razine-house"},
+        {"name":"MALHAR","image":"/GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Living_Room_Option_01.jpg","year":"Completed","url":"/project/malhar"},
+        {"name":"KAPADIA","image":"/GALLERY/KAPADIA 3DS/Hall2.jpg","year":"Completed","url":"/project/kapadia"}
     ]';
     $projects = json_decode($projects, true);
 @endphp
