@@ -428,8 +428,8 @@
                                 <div class="swiper-wrapper">
                                 @php
                                     $projects = '[
-                                        {"name":"SWIMWELL EXPERIENCE CENTRE ","image":"/GALLERY-2024/SWIMWELL EXPERIENCE CENTRE PHOTOS/1.jpg","year":"Completed","url":"/project/swimwell"},
-                                        {"name":"RAZINE RESIDENCE","image":"/GALLERY-2024/RAZINE RESIDENCE 3DS & PHOTOS/1.jpg","year":"Completed","url":"/project/razine-house"},
+                                        {"name":"SWIMWELL EXPERIENCE CENTRE ","image":"/GALLERY-2024/SWIMWELL EXPERIENCE CENTRE PHOTOS/1.JPG","year":"Completed","url":"/project/swimwell"},
+                                        {"name":"RAZINE RESIDENCE","image":"/GALLERY-2024/RAZINE RESIDENCE 3DS & PHOTOS/1.JPG","year":"Completed","url":"/project/razine-house"},
                                         {"name":"INTERFACE RESIDENCE","image":"/GALLERY-2024/INTERFACE RESIDENCE 3DS/1.jpeg","year":"Completed","url":"/project/interface"},
                                         {"name":"THE GATEWAY SHOW FLAT","image":"/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/1.jpg","year":"Completed","url":"/project/gateway"},
                                         {"name":"THOUGHTRAINS CORPORATE OFFICE","image":"/GALLERY-2024/THOUGHTRAINS CORPORATE OFFICE 3DS/1.jpg","year":"Ongoing","url":"/project/thoughtrains"},
