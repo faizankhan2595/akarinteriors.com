@@ -308,7 +308,7 @@
 
 
             <!--  Start process  -->
-            <section class="tc-process-style2" style="max-height: 400px;">
+            <section class="tc-process-style2" style="max-height: 800px;">
                 <div class="container">
                     <h2 class="fsz-45 fw-500 mb-80 text-center"> Meet The  <span class="sub-font fst-italic color-orange1 fw-400"> Founders  </span> </h2>
                     <div class="content">
@@ -980,15 +980,14 @@
                     message: message
                 },
                 success: function(response) {
-                    if (response == 'success') {
-                        alert('Message sent successfully');
-                        $('input[name="name"]').val('');
-                        $('input[name="email"]').val('');
-                        $('input[name="phone"]').val('');
-                        $('textarea[name="message"]').val('');
-                    } else {
-                        alert('Message not sent. Please try again');
-                    }
+                    alert('Message sent successfully');
+                    $('input[name="name"]').val('');
+                    $('input[name="email"]').val('');
+                    $('input[name="phone"]').val('');
+                    $('textarea[name="message"]').val('');
+                },
+                error: function(err) {
+                    alert('Something went wrong. Please try again later');
                 }
             });
         });
