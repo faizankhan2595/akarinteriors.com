@@ -44,7 +44,7 @@ $(document).ready(function () {
         mousewheel: false,
         keyboard: false,
         autoplay: {
-            delay: 6000,
+            delay: 4000,
         },
         loop: true,
     });
@@ -63,7 +63,7 @@ $(document).ready(function () {
         mousewheel: false,
         keyboard: true,
         autoplay: {
-            delay: 5000,
+            delay: 4000,
         },
         loop: true,
         breakpoints: {
@@ -99,7 +99,7 @@ $(document).ready(function () {
         mousewheel: false,
         keyboard: true,
         autoplay: {
-            delay: 6000,
+            delay: 4000,
         },
         loop: true,
     });
@@ -121,7 +121,7 @@ $(document).ready(function () {
         mousewheel: false,
         keyboard: true,
         autoplay: {
-            delay: 6000,
+            delay: 4000,
         },
         loop: true,
     });
