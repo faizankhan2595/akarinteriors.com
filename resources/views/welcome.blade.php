@@ -308,7 +308,7 @@
 
 
             <!--  Start process  -->
-            <section class="tc-process-style2" style="max-height: 800px;">
+            <section class="tc-process-style2">
                 <div class="container">
                     <h2 class="fsz-45 fw-500 mb-80 text-center"> Meet The  <span class="sub-font fst-italic color-orange1 fw-400"> Founders  </span> </h2>
                     <div class="content">

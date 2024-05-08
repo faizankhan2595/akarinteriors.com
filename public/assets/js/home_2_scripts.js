@@ -1,14 +1,14 @@
-$(function() {
+$(function () {
 
     // ----------- side menu -----------
-    $(".side_menu_btn").on("click", function() {
+    $(".side_menu_btn").on("click", function () {
         $(this).toggleClass("active");
         $(".side_menu4_overlay").toggleClass("show");
         $(".side_menu4_overlay2").toggleClass("show");
         $(".side_menu_style4").toggleClass("show");
     });
 
-    $(".side_menu_style4 .clss").on("click", function() {
+    $(".side_menu_style4 .clss").on("click", function () {
         $(".side_menu4_overlay").toggleClass("show");
         $(".side_menu4_overlay2").toggleClass("show");
         $(".side_menu_style4").toggleClass("show");
@@ -16,7 +16,7 @@ $(function() {
 
 
     // ---------- search box -----------
-    $(".navbar .search_btn").on("click", function() {
+    $(".navbar .search_btn").on("click", function () {
         $(".nav-search-box").toggleClass("show");
     })
 
@@ -25,7 +25,7 @@ $(function() {
 
 
 // ------------ swiper sliders -----------
-$(document).ready(function() {
+$(document).ready(function () {
 
     // head-slider
     var swiper = new Swiper('.tc-header-style2 .head-slider', {
@@ -50,20 +50,20 @@ $(document).ready(function() {
     });
 
     // projects-style2
-    var swiper = new Swiper('.tc-projects-style2 .projects-slider', {
+    var swiper = new Swiper('.projects-slider', {
         slidesPerView: 3,
         spaceBetween: 30,
         centeredSlides: true,
         speed: 1000,
         pagination: {
-            el: '.tc-projects-style2 .swiper-pagination',
+            el: '.projects-slider .swiper-pagination',
             clickable: true,
         },
         navigation: false,
         mousewheel: false,
         keyboard: true,
         autoplay: {
-            delay: 7000,
+            delay: 5000,
         },
         loop: true,
         breakpoints: {
@@ -130,9 +130,9 @@ $(document).ready(function() {
 
 
 // ------------ scripts -----------
-$(document).ready(function() {
+$(document).ready(function () {
     // ------------  File upload BEGIN ------------
-    $('.file__input--file').on('change', function(event) {
+    $('.file__input--file').on('change', function (event) {
         var files = event.target.files;
         for (var i = 0; i < files.length; i++) {
             var file = files[i];
@@ -141,7 +141,7 @@ $(document).ready(function() {
     });
 
     //Click to remove item
-    $('body').on('click', '.file__value', function() {
+    $('body').on('click', '.file__value', function () {
         $(this).remove();
     });
     // ------------ File upload END ------------ 
@@ -149,7 +149,7 @@ $(document).ready(function() {
 
 
 // ------------ gsap scripts -----------
-$(function() {
+$(function () {
     gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
     // create the smooth scroller FIRST!
