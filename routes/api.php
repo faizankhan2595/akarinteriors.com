@@ -29,7 +29,7 @@ Route::post('/contact', function (Request $request) {
 
     Mail::send('emails.enquiry', ['request' => $request], function ($message) use ($request) {
         $message->subject('New Enquiry Received'); 
-        $message->to('faizankhan2595@gmail.com');
+        $message->to('admin@akarinteriors.com');
         $message->from("testingdummy124@gmail.com", "Akarinteriors");
     }); 
 
