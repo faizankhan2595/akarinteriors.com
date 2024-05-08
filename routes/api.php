@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Mail;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,4 +17,20 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
+});
+
+Route::post('/contact', function (Request $request) {
+    $request->validate([
+        'name' => 'required',
+        'email' => 'required',
+        'phone' => 'required',
+        'message' => 'required',
+    ]);
+
+    Mail::send('emails.enquiry', ['request' => $request], function ($message) use ($request) {
+        $message->subject('New Enquiry Received'); 
+        $message->to('admin@akarinteriors.com');
+    }); 
+
+    return response()->json(['message' => 'Your message has been sent!']);
 });
