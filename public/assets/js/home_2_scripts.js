@@ -42,7 +42,7 @@ $(document).ready(function () {
             prevEl: '.tc-header-style2 .swiper-button-prev',
         },
         mousewheel: false,
-        keyboard: true,
+        keyboard: false,
         autoplay: {
             delay: 6000,
         },
