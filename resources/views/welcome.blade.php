@@ -958,6 +958,12 @@
             var email = $('input[name="email"]').val();
             var phone = $('input[name="phone"]').val();
             var message = $('textarea[name="message"]').val();
+            
+            if (!$('#flexCheckDefault').is(':checked')) {
+                alert('Please agree to the terms and conditions');
+                return false;
+            }
+
 
             if (name == '' || email == '' || phone == '' || message == '') {
                 alert('Please fill all the fields');
