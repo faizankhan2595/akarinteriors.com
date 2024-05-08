@@ -42,6 +42,13 @@
     <!-- home style -->
     <link rel="stylesheet" href="assets/css/home_2_style.css">
 
+    <style>
+        /* opacity: 1 !important;transform: none !important; */
+        .hero_slider_main {
+            opacity: 1 !important;
+            transform: none !important;
+        }
+    </style>
 
 </head>
 
@@ -126,7 +133,7 @@
                                         <img src="GALLERY/RAZINE HOUSE PHOTOS/Bed_Cum_Dining_V-3.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
-                                        <div class="container">
+                                        <div class="container hero_slider_main">
                                             <div class="cont">
                                                 <!-- <div class="tags">
                                                     <a href="#"> Furniture </a>
@@ -162,7 +169,7 @@
                                         <img src="GALLERY-2024/INTERFACE RESIDENCE 3DS/1.jpeg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
-                                        <div class="container">
+                                        <div class="container" style="">
                                             <div class="cont">
                                                 <!-- <div class="tags">
                                                     <a href="#"> Furniture </a>
