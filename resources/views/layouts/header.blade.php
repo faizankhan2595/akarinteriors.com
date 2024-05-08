@@ -27,8 +27,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="nav-contact">
-                <a class="navbar-brand" href="/">
-                    <img src="/logo2.png" alt="">
+                <a class="navbar-brand" href="/" style="margin-inline-end: 60px;">
+                    <img src="/logo2.png" alt="" style="height: 50px;">
                 </a>
                 <!-- <div class="links-item">
                     <a href="#"> B/601, Minoo Minar, Veera Desai Road,  <br/>
