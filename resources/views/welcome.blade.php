@@ -86,7 +86,7 @@
                             <div class="col-lg-8">
                                 <h1> Redefining Luxury Workspaces to  <span class="sub-font"> Meet Functionality </span> </h1>
                                 <div class="award-wrapper">
-                                    <p> <a href="mailto:afreen@akarinteriors.com">afreen@akarinteriors.com </a> </p>
+                                    <p> <a href="mailto:admin@akarinteriors.com">admin@akarinteriors.com </a> </p>
                                     <span class="line"></span>
                                     <p> <a href="tel:+918080380031"> (+91) 80803 80031 </a> </p>
                                 </div>
@@ -287,7 +287,7 @@
                     <div class="btm-info mt-50">
                         <div class="row gx-0">
                             <div class="col-lg-7">
-                                <h5 class="fsz-24 lh-4 wow fadeInUp slow"> We provide best solution for your dream, still adapt your budget and match with requires about quality of project </h5>
+                                <h5 class="fsz-24 lh-4 wow fadeInUp slow"> We provide best solution for your dream, still adapt your budget and match with requires about quality of project. </h5>
                                 <a href="/projects" class="butn borderd border rounded-pill mt-70 hover-bg-black">
                                     <span> See Our Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                                 </a>
@@ -326,9 +326,6 @@
                                                 <div class="accordion-body">
                                                     <div class="text">
                                                     Introducing Khan Abdullah Aftab, one of the two visionary leaders behind Akar Interiors. His journey is woven with over two decades of rich experience in the realm of procurement and interior construction. With an unwavering commitment to excellence, Abdullah's career epitomizes a fusion of passion and precision.
-                                                    <br/>
-                                                    <br/>
-                                                    Introducing Khan Abdullah Aftab, one of the two visionary leaders behind Akar Interiors. His journey is woven with over two decades of rich experience in the realm of procurement and interior construction. With an unwavering commitment to excellence, Abdullah's career epitomizes a fusion of passion and precision.
                                                     </div>
                                                 </div>
                                             </div>
@@ -342,9 +339,6 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionProcess">
                                                 <div class="accordion-body">
                                                     <div class="text">
-                                                    Introducing Afreen Khan, the other driving force behind Akar Interiors, whose expertise lies in cultivating seamless interactions and fostering relationships. With a keen focus on maintaining high-quality standards, she ensures that every aspect contributes to the achievement of excellence.
-                                                    <br/>
-                                                    <br/>
                                                     Introducing Afreen Khan, the other driving force behind Akar Interiors, whose expertise lies in cultivating seamless interactions and fostering relationships. With a keen focus on maintaining high-quality standards, she ensures that every aspect contributes to the achievement of excellence.
                                                     </div>
                                                 </div>
@@ -431,7 +425,7 @@
                                         {"name":"SWIMWELL EXPERIENCE CENTRE ","image":"/GALLERY-2024/SWIMWELL EXPERIENCE CENTRE PHOTOS/1.JPG","year":"Completed","url":"/project/swimwell"},
                                         {"name":"RAZINE RESIDENCE","image":"/GALLERY-2024/RAZINE RESIDENCE 3DS & PHOTOS/1.JPG","year":"Completed","url":"/project/razine-house"},
                                         {"name":"INTERFACE RESIDENCE","image":"/GALLERY-2024/INTERFACE RESIDENCE 3DS/1.jpeg","year":"Completed","url":"/project/interface"},
-                                        {"name":"THE GATEWAY SHOW FLAT","image":"/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/1.jpg","year":"Completed","url":"/project/gateway"},
+                                        {"name":"GATEWAY","image":"/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/1.jpg","year":"Completed","url":"/project/gateway"},
                                         {"name":"THOUGHTRAINS CORPORATE OFFICE","image":"/GALLERY-2024/THOUGHTRAINS CORPORATE OFFICE 3DS/1.jpg","year":"Ongoing","url":"/project/thoughtrains"},
                                         {"name":"MALHAR VILLA","image":"/GALLERY-2024/MALHAR VILLA 3DS/1.jpg","year":"Ongoing","url":"/project/malhar"},
                                         {"name":"BERGGRUEN INDIA OFFICE","image":"/GALLERY-2024/BERGGRUEN INDIA OFFICE 3D WALKTHROUGH VIDEO/1.jpg","year":"Ongoing","url":"/project/berggruen"}

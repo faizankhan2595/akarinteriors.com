@@ -91,7 +91,7 @@
                     <p class="color-orange1 text-center mb-30"> Redefining Luxury Workspaces to Meet Functionality </p>
 
                                                     <div class="text" style="text-align:center;">
-                                                    We specialise in creating inspiring spaces that adds a sense of luxury and refinement, elevating everyday living to extraordinary experiences. All our projects and work are accomplished with our drive for uniformity, simplicity, discipline, and punctuality. Experience the benefits of partnering with Akar Interiors today.
+                                                    We specialise in creating inspiring spaces that adds a sense of luxury and refinement, elevating everyday living to extraordinary experiences. All our projects and work are accomplished with our drive for uniformity, simplicity, discipline, and punctuality. <br/> Experience the benefits of partnering with Akar Interiors today.
                                                     <br/>
                                                     <br/>
 

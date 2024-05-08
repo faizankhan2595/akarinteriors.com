@@ -35,7 +35,7 @@
                     Andheri (West), Mumbai 400058 </a>
                 </div>
                 <div class="links-item">
-                    <a href="#"> afreen@akarinteriors.com </a>
+                    <a href="#"> admin@akarinteriors.com </a>
                     <a href="#"> (+91) 80803 80031 </a>
                 </div> -->
             </div>

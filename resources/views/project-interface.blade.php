@@ -85,7 +85,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
-                            <h2 class="fsz-45 fw-500"> Project <span class="sub-font fst-italic color-orange1 fw-400"> Gateway </span> </h2>
+                            <h2 class="fsz-45 fw-500"> Project <span class="sub-font fst-italic color-orange1 fw-400"> Interface Residence </span> </h2>
                         </div>
                     </div>
                     <div class="tabs-links mt-40">

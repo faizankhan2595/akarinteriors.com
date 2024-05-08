@@ -12,7 +12,7 @@
                         <h5 class="sub-title fsz-24 fw-500 mb-30 mt-5 mt-lg-0"> Contact </h5>
                         <ul>
                             <li> <a href="#"> B/601, Minoo Minar, Veera Desai Road, Andheri (West), Mumbai 400058 </a> </li>
-                            <li> <a href="#"> afreen@akarinteriors.com </a> </li>
+                            <li> <a href="#"> admin@akarinteriors.com </a> </li>
                             <li> <a href="#"> (+91) 80803 80031 </a> </li>
                         </ul>
                     </div>
