@@ -965,7 +965,7 @@
             }
 
             $.ajax({
-                url: '/contact',
+                url: '/api/contact',
                 type: 'POST',
                 data: {
                     name: name,
