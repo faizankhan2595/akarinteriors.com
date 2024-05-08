@@ -30,6 +30,7 @@ Route::post('/contact', function (Request $request) {
     Mail::send('emails.enquiry', ['request' => $request], function ($message) use ($request) {
         $message->subject('New Enquiry Received'); 
         $message->to('faizankhan2595@gmail.com');
+        $message->from("testingdummy124@gmail.com", "Akarinteriors");
     }); 
 
     return response()->json(['message' => 'Your message has been sent!']);
