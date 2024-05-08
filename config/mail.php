@@ -33,16 +33,34 @@ return [
     |
     */
 
+
+    // let SMTP_HOST = "smtp.gmail.com"
+    // let SMTP_PORT = 587
+    // let SMTP_FROM_EMAIL = "testingdummy124@gmail.com"
+    // let SMTP_FROM_NAME = "Maitreyee"
+    // let SMTP_USERNAME = "testingdummy124@gmail.com"
+    // let SMTP_PASSWORD = "ibdqfyhitrvvdlxq"
+    // let SMTP_ENCRYPTION = "tls"
+
+    // // Create a transporter using Google SMTP
+    // const transporter = nodemailer.createTransport({
+    //     host: 'smtp.gmail.com',
+    //     port: 465,
+    //     secure: true,
+    //     auth: {
+    //         user: SMTP_USERNAME,
+    //         pass: SMTP_PASSWORD,
+    //     },
+    // });
+
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-            'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
-            'port' => env('MAIL_PORT', 587),
-            'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-            'username' => env('MAIL_USERNAME'),
-            'password' => env('MAIL_PASSWORD'),
-            'timeout' => null,
-            'local_domain' => env('MAIL_EHLO_DOMAIN'),
+            'host' => "smtp.gmail.com",
+            'port' => 587,
+            'encryption' => 'tls',
+            'username' => "testingdummy124@gmail.com",
+            'password' => "ibdqfyhitrvvdlxq",
         ],
 
         'ses' => [
