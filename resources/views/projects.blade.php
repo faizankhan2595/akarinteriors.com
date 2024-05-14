@@ -88,9 +88,9 @@
                             <h2 class="fsz-45 fw-500"> Latest <span class="sub-font fst-italic color-orange1 fw-400"> projects </span> </h2>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="/projects" class="butn borderd border rounded-pill hover-bg-black">
+                            <!-- <a href="/projects" class="butn borderd border rounded-pill hover-bg-black">
                                 <span> See All Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                     <div class="tabs-links mt-40">

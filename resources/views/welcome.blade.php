@@ -366,11 +366,11 @@
                             <div class="col-lg-7">
                                 <div class="imgs">
                                     <div class="img" data-lag="0.2">
-                                        <img src="/Imag1.jpg" alt="" class="img-cover">
+                                        <img src="/Imag2.jpg" alt="" class="img-cover">
                                         <!-- <span class="txt sub-font">  </span> -->
                                     </div>
                                     <div class="img" data-lag="0.4">
-                                        <img src="/Imag2.jpg" alt="" class="img-cover">
+                                        <img src="/Imag1.jpg" alt="" class="img-cover">
                                         <!-- <span class="txt sub-font">  </span> -->
 
                                     </div>
@@ -1014,6 +1014,22 @@
                 },
                 error: function(err) {
                     alert('Something went wrong. Please try again later');
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function() {
+            $('.accordion-button').click(function() {
+                var clickedAccordionId = $(this).data('bs-target');
+                
+                if (clickedAccordionId === '#collapseOne') {
+                $('.imgs .img:first-child img').attr('src', '/Imag1.jpg');
+                $('.imgs .img:last-child img').attr('src', '/Imag2.jpg');
+                } else if (clickedAccordionId === '#collapseTwo') {
+                $('.imgs .img:first-child img').attr('src', '/Imag2.jpg');
+                $('.imgs .img:last-child img').attr('src', '/Imag1.jpg');
                 }
             });
         });

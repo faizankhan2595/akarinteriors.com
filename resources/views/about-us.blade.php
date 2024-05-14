@@ -221,11 +221,37 @@
                                     
                                 @php
                                     $images = [
-                                        'IMG_3420.jpg',
-                                        'IMG_3421.jpg',
-                                        'IMG_3422.jpg',
-                                        'IMG_3423.jpg',
-                                        'IMG_3424.jpg',
+                                        '1.jpg',
+                                        '2.jpg',
+                                        '3.jpg',
+                                        '4.jpg',
+                                        '5.jpg',
+                                        '6.jpg',
+                                        '7.jpg',
+                                        '8.jpg',
+                                        '9.jpg',
+                                        '10.jpg',
+                                        '11.jpg',
+                                        '12.jpg',
+                                        '13.jpg',
+                                        '14.jpg',
+                                        '15.jpg',   
+                                        '16.jpg',
+                                        '17.jpg',
+                                        '18.jpg',
+                                        '19.jpg',
+                                        '20.jpg',
+                                        '21.jpg',
+                                        '22.jpg',
+                                        '23.jpg',
+                                        '24.jpg',
+                                        '25.jpg',
+                                        '26.jpg',
+                                        '27.jpg',
+                                        '28.jpg',
+                                        '29.jpg',
+                                        '30.jpg',
+                                        '31.jpg'
                                     ];
                                 @endphp
 
@@ -233,7 +259,7 @@
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/team/{{$image}}" alt="" class="img-cover">
+                                                <img src="/new_images/{{$image}}" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>

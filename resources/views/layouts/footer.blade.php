@@ -51,9 +51,9 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="social-links">
-                        <a href="#"> <i class="fab fa-facebook-f"></i> </a>
-                        <a href="#"> <i class="fab fa-instagram"></i> </a>
-                        <a href="#"> <i class="fab fa-linkedin-in"></i> </a>
+                        <!-- <a href="#"> <i class="fab fa-facebook-f"></i> </a> -->
+                        <a href="https://www.instagram.com/akar.interiors?igsh=MWZ6eG10ajV6OXVsbQ%3D%3D&utm_source=qr"> <i class="fab fa-instagram"></i> </a>
+                        <a href="https://www.linkedin.com/company/akar-interiors-turnkey-solutions-pvt-ltd/"> <i class="fab fa-linkedin-in"></i> </a>
                     </div>
                 </div>
                 <div class="col-lg-2">
