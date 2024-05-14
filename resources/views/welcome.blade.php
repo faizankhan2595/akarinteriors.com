@@ -735,7 +735,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="col-lg-6">
+                        <div class="col-lg-9">
                             <div class="text-side">
                                 <div class="text-slider">
                                     <div class="swiper-wrapper">
