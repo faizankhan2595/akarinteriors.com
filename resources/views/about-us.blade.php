@@ -134,7 +134,7 @@
                                                         <div class="col-lg-6">
 
                                                             <div style="display:flex;align-items:center;justify-content:center;margin: 20px;">
-                                                                <img src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
+                                                                <img src="/Imag1.jpg" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
                                                             </div>
                                                             
                                                             <h2 class="fsz-25 fw-500 mb-20 text-center"> Khan Abdullah Aftab </h2>
@@ -148,7 +148,7 @@
                                                         <div class="col-lg-6">
 
                                                             <div style="display:flex;align-items:center;justify-content:center;margin: 20px;">
-                                                                <img src="https://images.unsplash.com/photo-1564564295391-7f24f26f568b?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
+                                                                <img src="/Imag2.jpg" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
                                                             </div>
                                                             
                                                             <h2 class="fsz-25 fw-500 mb-20 text-center"> Afreen Khan </h2>

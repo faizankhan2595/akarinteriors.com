@@ -48,6 +48,11 @@
             opacity: 1 !important;
             transform: none !important;
         }
+        @media screen and (min-width: 768px){
+            .sub-font.smaall {
+                font-size: 34px !important;
+            }
+        }
     </style>
 
 </head>
@@ -361,11 +366,11 @@
                             <div class="col-lg-7">
                                 <div class="imgs">
                                     <div class="img" data-lag="0.2">
-                                        <img src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <img src="/Imag1.jpg" alt="" class="img-cover">
                                         <!-- <span class="txt sub-font">  </span> -->
                                     </div>
                                     <div class="img" data-lag="0.4">
-                                        <img src="https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
+                                        <img src="/Imag2.jpg" alt="" class="img-cover">
                                         <!-- <span class="txt sub-font">  </span> -->
 
                                     </div>
@@ -735,29 +740,43 @@
                                 <div class="text-slider">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <div class="text sub-font"> "Great service and relationship from the design to implementation even after project completion. Regular updates and communication from start to finish. Highly recommended!" </div>
+                                            <div class="text sub-font smaall"> "My experience with Akar Interiors has been nothing short of exceptional. From the initial consultation to the final touches, their team exhibited professionalism, creativity, and attention to detail that surpassed my expectations." </div>
                                             <div class="user-wrapper">
                                                 <div class="user-content">
                                                     <div class="img">
-                                                        <img src="assets/img/avatar.jpg" alt="" class="img-cover">
+                                                        <img src="https://cdn-icons-png.flaticon.com/128/9131/9131529.png" alt="" class="img-cover">
                                                     </div>
                                                     <div class="inf">
-                                                        <h6 class="fsz-18"> Bradley Gordon </h6>
-                                                        <p class="color-ccc mt-2"> Hillsborough, NC </p>
+                                                        <h6 class="fsz-18"> Mrs. Harshita Sarogi </h6>
+                                                        <p class="color-ccc mt-2"> Sarogi Residence, Mumbai </p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
-                                            <div class="text sub-font"> "Great service and relationship from the design to implementation even after project completion. Regular updates and communication from start to finish. Highly recommended!" </div>
+                                            <div class="text sub-font smaall">"Without hesitation, I would recommend Akar Interiors to anyone seeking top-notch interior design & execution services. Their ability to understand and execute my vision while incorporating their expertise and flair resulted in a space that exceeded my expectations. Working with them was an absolute pleasure." </div>
                                             <div class="user-wrapper">
                                                 <div class="user-content">
                                                     <div class="img">
-                                                        <img src="assets/img/avatar.jpg" alt="" class="img-cover">
+                                                        <img src="https://cdn-icons-png.flaticon.com/128/9131/9131529.png" alt="" class="img-cover">
                                                     </div>
                                                     <div class="inf">
-                                                        <h6 class="fsz-18"> Bradley Gordon </h6>
-                                                        <p class="color-ccc mt-2"> Hillsborough, NC </p>
+                                                        <h6 class="fsz-18"> Mr. Abu Razine </h6>
+                                                        <p class="color-ccc mt-2"> Razine Residence, Mumbai </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="text sub-font smaall">"Swimwell Pools India Pvt Ltd take immense pleasure to appreciate your work, quality of product, designing, execution and much more, giving us the most aesthetic cooperate office interiors to work happily and safely." </div>
+                                            <div class="user-wrapper">
+                                                <div class="user-content">
+                                                    <div class="img">
+                                                        <img src="https://cdn-icons-png.flaticon.com/128/9131/9131529.png" alt="" class="img-cover">
+                                                    </div>
+                                                    <div class="inf">
+                                                        <h6 class="fsz-18"> Mrs. Zubeda Shaikh </h6>
+                                                        <p class="color-ccc mt-2"> C.E.O, Swimwell Pool India Pvt Ltd, Mumbai </p>
                                                     </div>
                                                 </div>
                                             </div>
