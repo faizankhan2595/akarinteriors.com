@@ -697,8 +697,8 @@
             <!--  Start testimonials  -->
             <section class="tc-testimonials-style2">
                 <div class="container">
-                    <div class="row justify-content-between">
-                        <div class="col-lg-5">
+                    <div class="row center" style="justify-content: center;align-items: center;">
+                        <!-- <div class="col-lg-5">
                             <div class="img-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
@@ -734,7 +734,7 @@
                                     <div class="swiper-button-next"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-6">
                             <div class="text-side">
                                 <div class="text-slider">
