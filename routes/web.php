@@ -84,3 +84,11 @@ Route::get('/project/{slug}', function ($slug) {
 Route::get('/services', function () {
     return view('services');
 });
+
+Route::get('/privacy-policy', function () {
+    return view('privacy-policy');
+});
+
+Route::get('/tos', function () {
+    return view('tos');
+});
