@@ -41,6 +41,13 @@
 
     <!-- home style -->
     <link rel="stylesheet" href="assets/css/home_2_style.css">
+
+    <style>
+        .tc-projects-style2 .project-card .img {
+            height: 250px;
+        }
+    </style>
+
 </head>
 
 <body class="home-style2">
@@ -221,37 +228,18 @@
                                     
                                 @php
                                     $images = [
-                                        '1.JPG',
-                                        '2.JPG',
-                                        '3.JPG',
-                                        '4.JPG',
-                                        '5.JPG',
-                                        '6.JPG',
-                                        '7.JPG',
                                         '8.JPG',
                                         '9.JPG',
                                         '10.JPG',
-                                        '11.JPG',
-                                        '12.JPG',
-                                        '13.JPG',
-                                        '14.JPG',
                                         '15.JPG',   
                                         '16.JPG',
                                         '17.JPG',
-                                        '18.JPG',
                                         '19.JPG',
-                                        '20.JPG',
                                         '21.JPG',
                                         '22.JPG',
-                                        '23.JPG',
                                         '24.JPG',
-                                        '25.JPG',
                                         '26.JPG',
-                                        '27.JPG',
-                                        '28.JPG',
-                                        '29.JPG',
-                                        '30.JPG',
-                                        '31.JPG'
+                                        '30.JPG'
                                     ];
                                 @endphp
 

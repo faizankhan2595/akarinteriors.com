@@ -110,7 +110,7 @@
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.2s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser1.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/3.jpg" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">
@@ -141,7 +141,7 @@ Renovation  refers to making major alterations or enhancements to your space’s
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY-2024/RAZINE RESIDENCE 3DS & PHOTOS/4.JPG" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">
@@ -157,7 +157,7 @@ The clever use of flexible layouts and loose furniture with little built-in wood
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
+                                                <img src="https://images.unsplash.com/photo-1598368195835-91e67f80c9d7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">

@@ -135,7 +135,7 @@
                         <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="GALLERY/RAZINE HOUSE PHOTOS/Bed_Cum_Dining_V-3.jpg" alt="" class="main-img img-cover">
+                                        <img src="/GALLERY-2024/THOUGHTRAINS CORPORATE OFFICE 3DS/1.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container hero_slider_main">
@@ -144,7 +144,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> Razine House </a> </h2>
+                                                <h2 class="title"> <a href="#"> Thoughtrains </a> </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -153,7 +153,7 @@
                             <div class="swiper-slide">
                                 <div class="slider-card">
                                     <div class="img">
-                                        <img src="GALLERY/MALHAR 3DS/Vijay_Patil_Residence_Bedroom_01.jpg" alt="" class="main-img img-cover">
+                                        <img src="/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/1.jpg" alt="" class="main-img img-cover">
                                     </div>
                                     <div class="info">
                                         <div class="container">
@@ -162,7 +162,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> Malhar 3DS </a> </h2>
+                                                <h2 class="title"> <a href="#"> Gateway </a> </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -239,7 +239,7 @@
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.2s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser1.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/3.jpg" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">
@@ -263,7 +263,7 @@
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
+                                                <img src="/GALLERY-2024/RAZINE RESIDENCE 3DS & PHOTOS/4.JPG" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">
@@ -275,7 +275,7 @@
                                     <div class="col-lg-3">
                                         <a href="/services" class="service-card wow fadeInUp slow" data-wow-delay="0.6s">
                                             <div class="img">
-                                                <img src="assets/img/services/ser3.jpg" alt="" class="img-cover">
+                                                <img src="https://images.unsplash.com/photo-1598368195835-91e67f80c9d7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
                                                 <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
                                             </div>
                                             <div class="info pt-30">
@@ -331,7 +331,7 @@
                                         <div class="accordion-item">
                                             <div class="accordion-header" id="headingOne">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-                                                <span class="num"> 1 / </span> <h3> Khan Abdullah Aftab </h3>
+                                                <span class="num"> 1 / </span> <h3> Abdullah Khan  </h3>
                                             </button>
                                             </div>
                                             <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionProcess">
@@ -366,14 +366,12 @@
                             <div class="col-lg-7">
                                 <div class="imgs">
                                     <div class="img" data-lag="0.2">
-                                        <img src="/Imag2.jpg" alt="" class="img-cover">
+                                        <img src="/new_images/13.JPG" alt="" class="img-cover">
                                         <!-- <span class="txt sub-font">  </span> -->
                                     </div>
-                                    <div class="img" data-lag="0.4">
+                                    <!-- <div class="img" data-lag="0.4">
                                         <img src="/Imag1.jpg" alt="" class="img-cover">
-                                        <!-- <span class="txt sub-font">  </span> -->
-
-                                    </div>
+                                    </div> -->
                                     <!-- <div class="img" data-lag="0.3">
                                         <img src="https://images.unsplash.com/photo-1564564295391-7f24f26f568b?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-cover">
                                     </div>
@@ -1019,7 +1017,7 @@
         });
     </script>
 
-    <script>
+    <!-- <script>
         $(document).ready(function() {
             $('.accordion-button').click(function() {
                 var clickedAccordionId = $(this).data('bs-target');
@@ -1033,7 +1031,7 @@
                 }
             });
         });
-    </script>
+    </script> -->
 
 </body>
 

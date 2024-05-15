@@ -87,11 +87,28 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionProcess">
                                                 <div class="accordion-body pt-4 pr-3">
 
+                                                    <style>
+                                                       p {
+                                                         margin-bottom: 5px;
+                                                       } 
+                                                       h2 {
+                                                         margin-top: 15px;
+                                                         margin-bottom: 20px;
+                                                       } 
+                                                       h3 {
+                                                         margin-top: 10px;
+                                                         margin-bottom: 20px;
+                                                       } 
+                                                       h4 {
+                                                         margin-top: 10px;
+                                                         margin-bottom: 20px;
+                                                       } 
+                                                    </style>
+
                                                     <h2 class="fsz-45 fw-500 mb-20 text-center"> Privacy Policy </h2> 
 
                                                     <div class="container">
 
-                                                    <h1>Privacy Policy</h1>
                                                     <p>Last updated: May 15, 2024</p>
                                                     <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
                                                     <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
