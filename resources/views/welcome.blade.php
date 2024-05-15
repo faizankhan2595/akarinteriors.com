@@ -96,7 +96,7 @@
                     <div class="container">
                         <div class="row justify-content-between">
                             <div class="col-lg-8">
-                                <h1> Redefining Luxury Workspaces to  <span class="sub-font"> Meet Functionality </span> </h1>
+                                <h1> Redefining Luxury Spaces to  <span class="sub-font"> Meet Functionality </span> </h1>
                                 <div class="award-wrapper">
                                     <p> <a href="mailto:admin@akarinteriors.com">admin@akarinteriors.com </a> </p>
                                     <span class="line"></span>
@@ -299,7 +299,7 @@
                     <div class="btm-info mt-50">
                         <div class="row gx-0">
                             <div class="col-lg-7">
-                                <h5 class="fsz-24 lh-4 wow fadeInUp slow"> We provide best solution for your dream, still adapt your budget and match with requires about quality of project. </h5>
+                                <h5 class="fsz-24 lh-4 wow fadeInUp slow"> Discover our bespoke solutions, crafted to uphold the utmost quality and luxury. </h5>
                                 <a href="/projects" class="butn borderd border rounded-pill mt-70 hover-bg-black">
                                     <span> See Our Projects <i class="ms-2 fal fa-long-arrow-right ico-45"></i> </span>
                                 </a>
@@ -308,8 +308,8 @@
                                 <div class="phone-box" data-speed="1" data-lag="0.5">
                                     <img src="assets/img/subtract2.png" alt="" class="bg-img">
                                     <h2 class="fsz-45 sub-font fw-400"> T: (+91) 80803 80031 </h2>
-                                    <p class="color-111 mt-40"> Contact us to get a free quote</p>
-                                    <p class="color-111"> for your dream project </p>
+                                    <p class="color-111 mt-40"> Contact us to transform your </p>
+                                    <p class="color-111"> vision into reality. </p>
                                 </div>
                             </div>
                         </div>

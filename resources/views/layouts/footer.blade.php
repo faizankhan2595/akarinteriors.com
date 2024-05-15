@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="foot-info">
-                        <h3 class="fsz-35 fw-500"> Redefining Luxury Workspaces to <span class="sub-font color-orange1 fst-italic"> Meet Functionality </span> </h3>
+                        <h3 class="fsz-35 fw-500"> Redefining Luxury Spaces to <span class="sub-font color-orange1 fst-italic"> Meet Functionality </span> </h3>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1">
