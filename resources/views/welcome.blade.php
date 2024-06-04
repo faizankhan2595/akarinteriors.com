@@ -738,6 +738,34 @@
                                 <div class="text-slider">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
+                                            <div class="text sub-font smaall"> "Akar Interiors has consistently delivered outstanding results across multiple projects for us. Most recently, they completed our show flat, and once again, their punctuality and professionalism were exemplary. Despite a demanding timeline, the Akar Interiors team ensured everything was finished right on schedule. Their dedication to meeting deadlines without compromising on quality has made them our go-to partner. We are thoroughly impressed with their work and highly recommend them for any turnkey projects." </div>
+                                            <div class="user-wrapper">
+                                                <div class="user-content">
+                                                    <div class="img">
+                                                        <img src="https://cdn-icons-png.flaticon.com/128/9131/9131529.png" alt="" class="img-cover">
+                                                    </div>
+                                                    <div class="inf">
+                                                        <h6 class="fsz-18"> Mr. Vijay Patil </h6>
+                                                        <p class="color-ccc mt-2"> Founder, Priyanka Regency, Navi Mumbai </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="text sub-font smaall"> "Akar Interiors completely transformed my spaces into modern, open, and inviting areas. The use of light and smarter solutions made a significant difference. I would highly recommend Akar Interiors to anyone looking to upgrade their spaces. Their attention to detail, creativity, and dedication to customer satisfaction set them apart from other turnkey execution firms." </div>
+                                            <div class="user-wrapper">
+                                                <div class="user-content">
+                                                    <div class="img">
+                                                        <img src="https://cdn-icons-png.flaticon.com/128/9131/9131529.png" alt="" class="img-cover">
+                                                    </div>
+                                                    <div class="inf">
+                                                        <h6 class="fsz-18"> Mr. Roshan More </h6>
+                                                        <p class="color-ccc mt-2"> Managing Partner, Om Builders & Superstructures, Navi Mumbai </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
                                             <div class="text sub-font smaall"> "My experience with Akar Interiors has been nothing short of exceptional. From the initial consultation to the final touches, their team exhibited professionalism, creativity, and attention to detail that surpassed my expectations." </div>
                                             <div class="user-wrapper">
                                                 <div class="user-content">
