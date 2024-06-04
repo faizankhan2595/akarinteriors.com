@@ -144,13 +144,16 @@
                             <div class="projects-slider">
                                 <div class="swiper-wrapper">
                                    
+
+                                    @foreach($projects as $project)
                                     <div class="swiper-slide">
                                         <div class="project-card">
                                             <div class="img">
-                                                <img src="/GALLERY/THE GATEWAY PHOTOS/C48A1022-Edit.jpg" alt="" class="img-cover">
+                                                <img src="{{ $project['image'] }}" alt="" class="img-cover">
                                             </div>
                                         </div>
                                     </div>
+                                    @endforeach
 
                                 </div>
                                 <div class="controls">

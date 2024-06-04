@@ -51,7 +51,7 @@ $(document).ready(function () {
 
     // projects-style2
     var swiper = new Swiper('.projects-slider', {
-        slidesPerView: 3,
+        slidesPerView: 2,
         spaceBetween: 30,
         centeredSlides: true,
         speed: 1000,
@@ -80,7 +80,7 @@ $(document).ready(function () {
                 slidesPerView: 2,
             },
             1200: {
-                slidesPerView: 3,
+                slidesPerView: 2,
             }
         }
     });

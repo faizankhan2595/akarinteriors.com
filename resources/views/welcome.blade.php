@@ -144,7 +144,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> Thoughtrains </a> </h2>
+                                                <h2 class="title"> <a href="/project/thoughtrains"> Thoughtrains </a> </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -162,7 +162,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> Gateway </a> </h2>
+                                                <h2 class="title"> <a href="/project/gateway"> Gateway </a> </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -180,7 +180,7 @@
                                                     <a href="#"> Furniture </a>
                                                     <a href="#"> Furniture </a>
                                                 </div> -->
-                                                <h2 class="title"> <a href="#"> Interface Residence </a> </h2>
+                                                <h2 class="title"> <a href="/project/interface"> Interface Residence </a> </h2>
                                             </div>
                                         </div>
                                     </div>

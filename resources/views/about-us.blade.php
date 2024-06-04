@@ -46,6 +46,15 @@
         .tc-projects-style2 .project-card .img {
             height: 250px;
         }
+
+        .img-cover {
+            width: 100%;
+            height: 100%;
+            -o-object-fit: cover;
+            object-fit: cover;
+            display: inherit;
+            object-position: 0px 30%;
+        }
     </style>
 
 </head>
