@@ -164,7 +164,7 @@
                                                         <div class="col-lg-6">
 
                                                             <div style="display:flex;align-items:center;justify-content:center;margin: 20px;">
-                                                                <img src="/Imag2.jpg" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
+                                                                <img src="/Imag3.jpg" alt="" class="img-cover" style="width: 200px;height:200px;border-radius: 50%;">
                                                             </div>
                                                             
                                                             <h2 class="fsz-25 fw-500 mb-20 text-center"> Afreen Khan </h2>
