@@ -17,14 +17,24 @@
     <span class="clss"> <i class="fal fa-times"></i> </span>
 </div>
 
+<style>
+    @media screen and (min-width: 768px) {
+        .hide_on_desktop {
+            display: none !important;
+        }
+    }
+</style>
+
 <nav class="navbar navbar-expand-lg navbar-light tc-navbar-style2">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/">
-            <!-- <img src="/logo2.png" alt=""> -->
+
+        <a class="navbar-brand hide_on_desktop" href="/">
+            <img class="hide_on_desktop" src="/logo2.png" alt="">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        <div class="nav-icons hide_on_desktop">
+                <a href="#" class="icon side_menu_btn hide_on_desktop"> <i class="fal fa-grip-lines"></i> </a>
+        </div>
+
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="nav-contact">
                 <a class="navbar-brand" href="/" style="margin-inline-end: 60px;">
@@ -40,14 +50,6 @@
                 </div> -->
             </div>
             <div class="nav-icons">
-                <!-- <a href="#" class="icon"> <i class="fal fa-globe"></i> </a> -->
-                <!-- <a href="#" class="icon search_btn"> <i class="fal fa-search"></i> </a> -->
-                <!-- <div class="nav-search-box">
-                    <div class="form-group">
-                        <input type="text" placeholder="search word">
-                        <button> <i class="fal fa-search"></i> </button>
-                    </div>
-                </div> -->
                 <a href="#" class="icon side_menu_btn"> <i class="fal fa-grip-lines"></i> </a>
             </div>
         </div>
