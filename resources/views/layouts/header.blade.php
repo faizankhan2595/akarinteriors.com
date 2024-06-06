@@ -23,6 +23,12 @@
             display: none !important;
         }
     }
+    @media screen and (max-width: 768px) {
+        a.navbar-brand.hide_on_desktop {
+            -webkit-margin-end: 0px !important;
+            margin-inline-end: 0px !important;
+        }
+    }
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-light tc-navbar-style2">
