@@ -44,7 +44,7 @@
 
     <style>
         .tc-projects-style2 .project-card .img {
-            height: 250px;
+            height: 375px;
         }
 
         .img-cover {
