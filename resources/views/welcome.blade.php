@@ -114,7 +114,7 @@
                                                     <p> Clients Satisfied </p>
                                                 </div>
                                                 <div class="col-6">
-                                                    <h2 class="num sub-font"> <span class="counter">12</span>+ </h2>
+                                                    <h2 class="num sub-font"> <span class="counter">15</span>+ </h2>
                                                     <p> Projects Done </p>
                                                 </div>
                                             </div>
@@ -436,7 +436,7 @@
                                         {"name":"GATEWAY","image":"/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/1.jpg","year":"Completed","url":"/project/gateway"},
                                         {"name":"THOUGHTRAINS CORPORATE OFFICE","image":"/GALLERY-2024/THOUGHTRAINS CORPORATE OFFICE 3DS/1.jpg","year":"Ongoing","url":"/project/thoughtrains"},
                                         {"name":"MALHAR VILLA","image":"/GALLERY-2024/MALHAR VILLA 3DS/1.jpg","year":"Ongoing","url":"/project/malhar"},
-                                        {"name":"BERGGRUEN INDIA OFFICE","image":"/GALLERY-2024/BERGGRUEN INDIA OFFICE 3D WALKTHROUGH VIDEO/1.jpg","year":"Ongoing","url":"/project/berggruen"}
+                                        {"name":"BERGGRUEN INDIA OFFICE","image":"/GALLERY-2024/BERGGRUEN INDIA OFFICE 3D WALKTHROUGH VIDEO/1.jpg","year":"Completed","url":"/project/berggruen"}
                                     ]';
                                     $projects = json_decode($projects, true);
                                 @endphp

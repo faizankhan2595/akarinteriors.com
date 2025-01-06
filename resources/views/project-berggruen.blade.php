@@ -118,102 +118,51 @@
 
                 <div class="tab-content" id="pills-tabContent">
                     <div class="tab-pane fade show active" id="pills-proj1" role="tabpanel" aria-labelledby="pills-proj1-tab">
-                        <div class="projects-slider-content mt-100">
-                        <!-- GALLERY-2024/BERGGRUEN INDIA OFFICE 3D WALKTHROUGH VIDEO/Berggruen Video2 -->
-                            <video width="100%" height="auto" controls autoplay muted>
-                                <source src="/GALLERY-2024/BERGGRUEN INDIA OFFICE 3D WALKTHROUGH VIDEO/Berggruen Video2.mp4" type="video/mp4">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                    </div>
-                    <!-- <div class="tab-pane fade" id="pills-proj2" role="tabpanel" aria-labelledby="pills-proj2-tab">
-                        <div class="projects-slider-content mt-100">
-                            <div class="projects-slider">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="assets/img/projects/proj3.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
+                            <div class="projects-slider-content mt-100">
+                                <div class="projects-slider">
+                                    <div class="swiper-wrapper">
+
+                                        
+                                    @php
+                                        $images = [
+                                            '1.jpg',
+                                            '2.jpg',
+                                            '3.jpg',
+                                            '4.jpg',
+                                            '5.jpg',
+                                            '6.jpg',
+                                            '7.jpg',
+                                            '8.jpg',
+                                            '9.jpg',
+                                            '10.jpg',
+                                            '11.jpg',
+                                            '12.jpg',
+                                            '13.jpg',
+                                            '14.jpg',
+                                            '15.jpg',   
+                                            '16.jpg'
+                                        ];
+                                    @endphp
+
+                                    @foreach($images as $image)
+                                        <div class="swiper-slide">
+                                            <div class="project-card">
+                                                <div class="img">
+                                                    <img src="/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/{{$image}}" alt="" class="img-cover">
                                                 </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Salone Skin & Spa </a> </h3>
                                             </div>
                                         </div>
+                                    @endforeach
+
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="assets/img/projects/proj4.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Boston D53 Deluxe Apartment </a> </h3>
-                                            </div>
+                                    <div class="controls">
+                                        <div class="container">
+                                            <div class="swiper-pagination"></div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="assets/img/projects/proj1.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2023 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Interior Design </a>
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> ABERY Apartment Master Bedroom </a> </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="project-card">
-                                            <a href="#" class="img">
-                                                <img src="assets/img/projects/proj2.jpg" alt="" class="img-cover">
-                                                <div class="year">
-                                                    <span class="txt"> 2022 </span>
-                                                    <img src="assets/img/project_shape.png" alt="" class="bg">
-                                                </div>
-                                                <div class="arrow"> <i class="fal fa-long-arrow-right ico-45"></i> </div>
-                                            </a>
-                                            <div class="info">
-                                                <div class="tags">
-                                                    <a href="#"> Furniture </a>
-                                                </div>
-                                                <h3 class="title"> <a href="#"> Neoclassical Sofa </a> </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="controls">
-                                    <div class="container">
-                                        <div class="swiper-pagination"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
                 </div>
             </section>
             <!--  End projects  -->
