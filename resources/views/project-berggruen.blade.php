@@ -148,7 +148,7 @@
                                         <div class="swiper-slide">
                                             <div class="project-card">
                                                 <div class="img">
-                                                    <img src="/GALLERY-2024/THE GATEWAY SHOW FLAT PHOTOS/{{$image}}" alt="" class="img-cover">
+                                                    <img src="/GALLERY-2024/BERGGURREN FOR WEBSITE/{{$image}}" alt="" class="img-cover">
                                                 </div>
                                             </div>
                                         </div>
